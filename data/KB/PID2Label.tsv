@@ -1,0 +1,1433 @@
+P1001	applies to jurisdiction	the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)
+P101	field of work	specialization of a person or organization
+P1018	language regulatory body	regulatory body of a language
+P102	member of political party	the political party of which a person is or has been a member or otherwise affiliated
+P1027	conferred by	person or organization who grants an award, certification, grant, or role
+P103	native language	language or languages a person has learned from early childhood
+P1034	main food source	species, genus or family that an organism depends on for nutrition
+P105	taxon rank	level in a taxonomic hierarchy
+P1056	product, material, or service produced or provided	material or product produced or sold by an organization, industry, facility, or process
+P106	occupation	occupation of a person
+P108	employer	person or organization for which the subject works or worked
+P10888	contains the statistical territorial entity	(list of) statistical territorial entities which are direct subdivisions of another statistical or administrative territorial entity
+P112	founded by	founder or co-founder of this organization, religion, place or entity
+P1142	political ideology	political ideology of an organization or person or of a work (such as a newspaper)
+P115	home venue	home stadium or venue of a sports team or applicable performing arts organization
+P118	league or competition	league or competition in which team or player plays or has played in
+P119	place of burial	location of grave, resting place, place of ash-scattering, etc. (e.g., town/city or cemetery) for a person or animal. There may be several places: e.g., re-burials, parts of body buried separately.
+P1196	manner of death	general circumstances of a person's death
+P121	item operated	equipment, installation or service operated by the subject
+P122	basic form of government	subject's government
+P123	publisher	organization or person responsible for publishing books, periodicals, printed music, podcasts, games or software
+P12443	has cabinet	value is the advisory committee to the item's head of state
+P1269	facet of	topic of which this item is an aspect
+P127	owned by	owner of the subject
+P129	physically interacts with	physical entity that the subject interacts with
+P1299	depicted by	object depicting this subject (object being creative works such as books, films, paintings)
+P1303	instrument	musical instrument that a person plays or teaches or used in a music occupation
+P1304	central bank	country's central bank
+P131	located in the administrative territorial entity	the item is located on the territory of the following administrative entity.
+P1313	office held by head of government	political office that is fulfilled by the head of the government of this item
+P1343	described by source	work where this item is described
+P1344	participant in	event in which a person or organization was/is a participant
+P136	genre	creative work's genre or an artist's field of work
+P1365	replaces	person, state or item replaced.
+P1366	replaced by	other person or item which continues the item by replacing it in its role.
+P137	operator	person, profession, organization or entity that operates the equipment, facility, or service
+P1376	capital of	country, state, department, canton or other administrative division of which the municipality is the governmental seat
+P138	named after	entity or event that inspired the subject's name, or namesake (in at least one language). Qualifier applies to name
+P1382	partially coincident with	object that partially overlaps with the subject in its instances, parts, or members
+P140	religion or worldview	religion of a person, organization or religious building, or associated with this subject
+P1411	nominated for	award nomination received by a person, organisation or creative work (inspired from award received
+P1412	languages spoken, written or signed	language(s) that a person or a people speaks, writes or signs, including the native language(s)
+P1416	affiliation	organization that a person or organization is affiliated with (not necessarily member of or employed by)
+P1435	heritage designation	heritage designation of a cultural or natural site
+P144	based on	the work(s) or inputs used as the basis for subject item
+P1441	present in work	this (fictional or fictionalized) entity, place, or person appears in that work as part of the narration 
+P1454	legal form	legal form of an entity
+P1456	list of monuments	link to the list of heritage monuments in the place/area
+P150	contains the administrative territorial entity	(list of) direct subdivisions of an administrative territorial entity
+P1532	country for sport	country a person or a team represents when playing a sport
+P1535	used by	item or concept that makes
+P1542	has effect	effect of this item
+P1546	motto	description of the motto of the subject
+P155	follows	immediately prior item in a series of which the subject is a part, preferably
+P1552	has characteristic	inherent or distinguishing quality or feature of the entity.
+P156	followed by	immediately following item in a series of which the subject is a part, preferably
+P1589	lowest point	point with lowest elevation in the country, region, city or area
+P159	headquarters location	city or town where an organization's headquarters is or has been situated.
+P1622	driving side	side of the road that vehicles drive on in a given jurisdiction
+P163	flag	subject's flag
+P166	award received	award or recognition received by a person, organization or creative work
+P17	country	sovereign state that this item is in (not to be used for human beings)
+P170	creator	maker of this creative work or other object (where no more specific property exists)
+P171	parent taxon	closest parent taxon of the taxon in question
+P172	ethnic group	subject's ethnicity (consensus is that a VERY high standard of proof is needed for this field to be used. In general this means 1) the subject claims it themselves, or 2) it is widely agreed on by scholars, or 3) is fictional and portrayed as such)
+P1830	owner of	entities owned by the subject
+P1889	different from	item that is different from another item, with which it may be confused
+P19	place of birth	most specific known birth location of a person, animal or fictional character
+P190	twinned administrative body	twin towns, sister cities, twinned municipalities and other localities that have a partnership or cooperative agreement, either legally or informally acknowledged by their governments
+P1906	office held by head of state	political office that is fulfilled by the head of state of this item
+P194	legislative body	legislative body governing this entity
+P1999	UNESCO language status	degree of endangerment of a language conferred by the UNESCO Atlas of World Languages in Danger
+P20	place of death	most specific known (e.g. city instead of country, or hospital instead of city) death location of a person, animal or fictional character
+P206	located in or next to body of water	body of water on or next to which a place is located
+P208	executive body	branch of government for the daily administration of the territorial entity
+P209	highest judicial authority	supreme judicial body within a country, administrative division, or other organization
+P21	sex or gender	sex or gender identity of human or animal. For human: male, female, non-binary, intersex, transgender female, transgender male, agender, etc. For animal: male organism, female organism. Groups of same gender
+P2184	history of topic	item about the historical development of a subject's topic, example: history of Argentina for Argentina. To list key events of the topic,
+P22	father	male parent of the subject. For stepfather,
+P2238	official symbol	official symbol of an organisation
+P2283	uses	item or concept used by the subject or in the operation (see also instrument [P1303] and armament [P520])
+P2341	indigenous to	place or ethnic group where a language, art genre, cultural tradition or expression, cooking style or food, or biological species or variety is found (or was originally found)
+P2354	has list	Wikimedia list related to this subject
+P237	coat of arms	subject's coat of arms
+P2388	office held by head of the organization	position of the head of this item
+P25	mother	female parent of the subject. For stepmother,
+P2564	Köppen climate classification	indicates the characteristic climate of a place
+P2579	studied in	subject is studied by this science or domain
+P2587	has phoneme	the language's phonology includes this sound
+P2596	culture	human culture or people (or several cultures) associated with this item
+P26	spouse	the subject has the object as their spo
+P2633	geography of topic	item that deals with the geography of the subject. Sample: Rio de Janeiro uses this property with value geography of Rio de Janeiro (Q10288853). For the location of a subject,
+P2643	Carnegie Classification of Institutions of Higher Education	classification of colleges and universities in the United States
+P2670	has part(s) of the class	the subject has one or more parts of the object class
+P27	country of citizenship	the object is a country that recognizes the subject as its citizen
+P2737	union of	every instance of this class is an instance of at least one class in that list of classes.
+P276	location	location of the object, structure or event. In the case of an administrative entity as containing item
+P279	subclass of	this item is a subclass (subset) of that item
+P282	writing system	alphabet, character set or other system of writing used by a language, word, or text, supported by a typeface
+P2853	electrical plug type	standard plug type for mains electricity in a country
+P291	place of publication	geographical place of publication of the edition 
+P2936	language used	language widely used (spoken or written) in this place or at this event
+P2959	permanent duplicated item	this item duplicates another item and the two can't be merged, as one Wikimedia project includes two pages, e.g. in different scripts or languages (only applies to some wikis, e.g.: cdowiki, gomwiki, nanwiki).
+P2989	has grammatical case	case used in this language
+P30	continent	continent of which the subject is a part
+P301	category's main topic	primary topic of the subject Wikimedia category
+P3075	official religion	official religion in this administrative entity
+P3095	practiced by	type of agents that study this subject or work in this field
+P31	instance of	that class of which this subject is a particular example and member
+P3103	has tense	grammatical category expressing time reference of the language. To include a sample,
+P3161	has grammatical mood	language has this grammatical mood/mode for signaling modality
+P3179	territory overlaps	part or all of the area associated with (this) entity overlaps part or all of the area associated with that entity
+P3373	sibling	the subject and the object have at least one common parent (brother, sister, etc. including half-siblings)
+P3403	coextensive with	this item has the same boundary as the target item
+P35	head of state	official with the highest formal authority in a country/state
+P355	has subsidiary	subsidiary of a company or organization
+P36	capital	seat of government of a country, province, state or other type of administrative territorial entity
+P360	is a list of	common element between all listed items
+P361	part of	object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A), inverse property of has part
+P366	has use	main
+P37	official language	language designated as official by this item
+P3729	next lower rank	lower rank or level in a ranked hierarchy like sport league, military ranks. If there are several possible, list each one and qualify with criterion used
+P3730	next higher rank	higher rank or level in a ranked hierarchy like sport league, military ranks. If there are several possible, list each one and qualify with criterion used
+P38	currency	currency used by item
+P3823	Ethnologue language status	language status identifier by Ethnologue.com using EGIDS scale
+P39	position held	subject currently or formerly holds the object position or public office
+P3969	signed form	manually coded form of this language
+P40	child	subject has object as child. Do not
+P407	language of work or name	language associated with this creative work (such as books, shows, songs, broadcasts or websites) or a name
+P413	position played on team / speciality	position or specialism of a player on a team
+P4132	linguistic typology	classification of languages according to their linguistic trait (as opposed to historical families like romance languages)
+P417	patron saint	patron saint adopted by the subject
+P418	has seal, badge, or sigil	links to the item for the subject's seal
+P421	located in time zone	time zone for this item
+P425	field of this occupation	field corresponding to this occupation or profession 
+P452	industry	specific industry of company or organization
+P457	foundational text	text through which an institution or object has been created or established
+P461	opposite of	item that is in some way the opposite of this item
+P462	color	color of subject
+P463	member of	organization, club or musical group to which the subject belongs. Do not
+P47	shares border with	countries or administrative subdivisions, of equal level, that this item borders, either by land or water. A single common point is enough.
+P4733	produced sound	item for the sound generated by the subject, for instance the cry of an animal
+P485	archives at	the institution holding the subject's archives
+P488	chairperson	presiding member of an organization, group or body
+P495	country of origin	country of origin of this item (creative work, food, phrase, product, etc.)
+P50	author	main creator(s) of a written work 
+P5008	on focus list of Wikimedia project	property to indicate that an item is of particular interest for a Wikimedia project. This property does not add notability. Items should not be created with this property if they are not notable for Wikidata. See also P6104, P972, P2354.
+P509	cause of death	underlying or immediate ca
+P5109	has grammatical gender	specific form of noun class system of a language.
+P5110	has grammatical person	grammatical feature relating to the identity of participants in an event
+P5206	has conjugation class	conjugation pattern for group of verbs in the language.
+P527	has part(s)	part of this subject
+P530	diplomatic relation	diplomatic relations of the country
+P5323	attested in	document or corpus where the lemma or form of a Lexeme entity, word or name is used, but not described
+P54	member of sports team	sports teams or clubs that the subject represents or represented
+P551	residence	the place where the person is or has been, resident
+P5658	railway traffic side	indicates for a country or a railway line whether rail traffic usually runs on the left or right hand side
+P5869	model item	defines which item is a best practice example of modelling a subject, which is described by the value of this property, usage instructions at Wikidata:Model items
+P6	head of government	head of the executive power of this town, city, municipality, state, country, or other governmental body
+P607	conflict	battles, wars or other military engagements in which the person or item participated
+P61	discoverer or inventor	subject who discovered, first described, invented, or developed this discovery or invention or scientific hypothesis or theory
+P610	highest point	point with highest elevation in a region, or on the path of a race or route
+P6106	uses capitalization for	lexical classes and subclasses of words as well as other uses in the language where the first letter is written as a capital letter
+P6216	copyright status	copyright status for intellectual creations like works of art, publications, software, etc.
+P629	edition or translation of	is an edition or translation of this entity
+P6364	official color	official colors chosen to represent or identify an item
+P6379	has works in the collection	collection that has works of this person or organisation 
+P641	sport	sport that the subject participates or participated in or is associated with
+P6482	Image Archive, Herder Institute	link to the online database (Bildkatalog) of the image archive for the display of image sources
+P6886	writing language	language in which the writer has written their work
+P69	educated at	educational institution attended by subject
+P706	located in/on physical feature	located on the specified (geo)physical feature. Should not be used when the value is only political/administrative
+P710	participant	person, group of people or organization (object) that actively takes/took part in an event or process (subject).  Preferably qualify with object has role
+P734	family name	part of full name of person
+P735	given name	first name or another given name of this person
+P737	influenced by	this person, idea, etc. is informed by that other person, idea, etc., e.g. “Heidegger was influenced by Aristotle”
+P740	location of formation	location where a group or organization was formed
+P747	has edition or translation	link to an edition of this item
+P749	parent organization	parent organization of an organization, opposite of subsidiaries
+P750	distributed by	distributor of a creative work
+P7763	copyright status as a creator	states if the body of work published during the lifetime of this creator is still copyrighted or in the public domain
+P78	top-level Internet domain	Internet domain name system top-level code
+P793	significant event	significant or notable events associated with the subject
+P7937	form of creative work	structure of a creative work
+P7938	associated electoral district	constituencies/electoral districts in which a place is located or is part of. If a municipality/county is split into or part of several districts: add several values.
+P7959	historic county	traditional, geographical division of Great Britain and Ireland
+P797	authority	entity having executive power on given entity
+P800	notable work	notable scientific, artistic or literary work, or other work of significance among subject's works
+P8138	located in statistical territorial entity	statistical territorial entity in which a place is located or is part of. If a municipality or county is split into or part of several regions: add several values
+P828	has cause	underlying cause, entity that ultimately resulted in this effect
+P832	public holiday	official public holiday that occurs in this place in its honor, usually a non-working day
+P85	anthem	subject's official anthem
+P8625	bibliography	Wikimedia page that gives a selection of relevant texts on the given topic
+P8744	economy of topic	item that deals with the economy of the subject
+P910	topic's main category	main Wikimedia category
+P92	main regulatory text	text setting the main rules by which the subject is regulated
+P921	main subject	primary topic of a work (see also P180: depicts)
+P9241	demographics of topic	item that deals with demographics of the subject
+P937	work location	location where persons or organisations were actively participating in employment, business or other work
+P98	editor	person who checks and corrects a work (such as a book, newspaper, academic journal, etc.) to comply with a rules of certain genre. Also applies to person who establishes the text of an ancient written work or manuscript.
+P1000	record held	notable record achieved by a person or entity, include qualifiers for dates held
+P10019	equivalent in higher rank taxon	an equivalent class that is species-neutral or scoped to higher ranking taxa
+P1002	engine configuration	configuration of an engine's cylinders
+P10067	train melody	music that tells you that a train is leaving or arriving at a train station
+P1011	excluding	usually used as a qualifier
+P10113	IMA Mineral Symbol	IMA approved symbols (abbreviations) for mineral names
+P1012	including	usually used as a qualifier
+P10129	protective marking	label applied to an intellectual work to indicate how the document should be handled, particularly from a security or privacy perspective
+P1013	criterion used	property by which a distinction or classification is made
+P10176	type host	the host taxon from which a parasite type specimen was obtained
+P10228	facilitates flow of	the cargo/substrate actively transported or passively channeled by a protein
+P10241	individual of taxon	the taxon of an individual named organism (animal, plant)
+P10254	associated cadastral district	cadastral district in which a place is located or is part of. Use only if distinct from administrative entities (P131) in predefined countries
+P1026	academic thesis	thesis or dissertation written for a degree
+P1028	donated by	person or organization who donated the object
+P10280	category for honorary citizens of entity	category containing the honorary citizens of a settlement (administrative unit, country). Honorary citizens may or may not be citizens of the country
+P1029	crew member(s)	person(s) that participated operating or serving aboard this vehicle
+P10290	hotel rating	star rating of the hotel
+P1030	light characteristic	description of a navigational light sequence or colour displayed on a nautical chart. Explicitly state white light (W)
+P1032	digital rights management system	technologies  to control the use of digital content and devices after sale
+P1035	honorific suffix	word or expression with connotations conveying esteem or respect when used, after a name, in addressing or referring to a person
+P1037	director / manager	person who manages any kind of group
+P10374	computational complexity	the most specific complexity class this computational problem has been proved to belong to; if available, provide the tight complexity, otherwise both hardness and membership can be specified
+P1038	relative	"family member (qualify with ""kinship to subject"", P1039; for direct family member please use specific property)"
+P1040	film editor	person who works with the raw footage, selecting shots and combining them into sequences to create a finished motion picture
+P10408	created during	media file created during a specific event or occurrence (for use on Wikimedia Commons)
+P1041	socket supported	socket for which the electronic part was made
+P10449	trained by	personal trainer of the athlete
+P1046	discovery method	way an exoplanet was discovered
+P10476	identifies	this item uniquely and purposefully distinguishes instances of this class from each other
+P1049	worshipped by	religion or group/civilization that worships a given deity
+P1050	medical condition	any state relevant to the health of an organism, including diseases and positive conditions
+P10527	documentation files at	institution that holds documentation files about the subject
+P1053	ResearcherID	identifier for a researcher in a system for scientific authors, redirects to a Web of Science ID, along with P3829
+P10568	maintains linking to	this collection resource maintains a consistent linking to this other collection resource
+P1057	chromosome	chromosome on which an entity is localized
+P10588	academic calendar type	academic calendar system used by an educational institution
+P1060	disease transmission process	"process by which a pathogen is transmitted, equivalent to ""transmitted by"" in the relation ontology http://purl.obolibrary.org/obo/RO_0002451"
+P10606	notable role	role in a theatrical, motion picture, television, or other work that a performer is particularly known for
+P10607	athletics program	the name of a school's athletics program, as opposed to individual teams in particular sports
+P10611	has certification	states that an item has a certain certification
+P10624	official observer status in organisation	Organisation by which the subject is granted observer status
+P10630	medically indicated in case of	medical condition for which the net benefit of a medical procedure is expected to be positive
+P1064	track gauge	spacing of the rails on a railway track
+P10642	place of disappearance	place where people or things have disappeared; link with P746 (date of disappearance)
+P10645	reports to	the subject position reports to this position
+P10654	rack system	type of rack-and-cogwheel system used by a certain rack railway
+P1066	student of	person who has taught this person
+P10661	exhibited creator	intellectual or creative entity (person or organization) responsible for the elements exhibited
+P10664	featured track(s)	soundtrack of this audiovisual work
+P10672	raw material processed	raw or intermediate material, or a natural resource converted or consumed by a factory or industrial process, to manufacture a product, or to deliver energy (not to be confused with P186 that is used with products)
+P1068	instruction set	set of machine code instructions on which a processor architecture is based
+P10680	franchisor	one who licenses some or all of its know-how, procedures, intellectual property, use of its business model, brand, and rights to sell its branded products and services to a franchisee
+P10695	introduced in	work that introduced this concept
+P1071	location of creation	place where the item was conceived or made; where applicable, location of final assembly
+P10714	WikiProject importance scale rating	rating of an article on a WikiProject's importance scale
+P1072	readable file format	file format a program can open and read
+P10729	finisher	finishing move used by an athlete in professional wrestling
+P1073	writable file format	file format a program can create and/or write to
+P1074	fictional or mythical analog of	used to link an entity or class of entities appearing in a creative work with the analogous entity or class of entities in the real world
+P10741	dance style	dance style that the subject participates or participated in or is associated with
+P1075	rector	senior official in an educational institution
+P10754	distributed from	place or location where a good or service is distributed from
+P1078	valvetrain configuration	configuration of the valvetrain utilized by this engine
+P1079	launch contractor	organization contracted to launch the rocket
+P1080	from narrative universe	subject's fictional entity is in the object narrative. See also P1441 (present in work) and P1445 (fictional universe described in)
+P10806	orchestrator	person or body responsible for arranging a musical composition for orchestra
+P10836	inker	comics artist responsible for outlining, interpreting, finalizing, and retracing a drawing by using a pencil, pen or a brush
+P10837	penciller	artist who works on the creation of comic books, graphic novels, and similar visual art forms, with a focus on the initial pencil illustrations
+P10906	foliage type	type of foliage characteristic of a plant, e.g. deciduous, semi-deciduous, semi-evergreen, or evergreen
+P10946	contraindicated in case of	medical condition for which the net benefit of a medical procedure is expected to be negative
+P10960	harvested organism(s)	taxon or common name for the organism(s) that are harvested in this fishery, industry, or other harvesting enterprise
+P10994	KFCB classification (Kenya)	rating in the film classification system of Kenya
+P110	illustrator	person drawing the pictures or taking the photographs in a book or similar work
+P111	measured physical quantity	value of a physical property expressed as number multiplied by a unit
+P11108	recorded participant	agent taking an active role as a participant in a nonfiction moving image or other recorded work
+P11146	collection items at	institution (museum, collection, etc.) holding items (specimens or other objects) collected by the subject (collector) or at the subject (e.g. site). (use archive location P485 for the archives)
+P11197	build system	build system used by a software during its development
+P11220	fruit color	color of the fruit of a plant species, hybrid, or cultivar
+P11231	has biological vector	a taxon which functions as a vector for this pathogenic biological group
+P11245	YouTube handle	"unique identifier of a person, organization or channel on YouTube; do not include the ""@"" symbol"
+P11279	is a number of	this entity is a number representing the quantity of this item
+P113	airline hub	airport that serves as a hub for an airline
+P1136	solved by	person that solved a scientific question
+P1137	fossil found in this unit	fossils that are found in this stratigraphic unit
+P11375	CSD Refcode	Unique alphanumeric ID assigned by the CCDC to a crystal structure when it is added to the CSD
+P114	airline alliance	alliance the airline belongs to
+P1145	Lagrangian point	libration point of an object (default: object-sun-earth)
+P11463	travel advisory category	advisory category issued by a government regarding travel to another country or territory
+P11484	does not use	item or concept not used by the subject but that could have been expected
+P1149	Library of Congress Classification	subject classification number used in the Library of Congress Classification system; does not include the shelflisting portion assigned to individual publications
+P11491	member of Roman tribe	Roman tribe in which one was inscribed
+P1150	Regensburg Classification	identifier used for this class in the Regensburg Classification system
+P1151	topic's main Wikimedia portal	Wikimedia portal associated with this topic
+P11558	digital equivalent of	what the subject is the digital equivalent of
+P1158	location of landing	location where the craft landed
+P1160	ISO 4 abbreviation	standard abbreviation for periodicals in the International Organization for Standardization system
+P11603	transcribed by	person who has made a copy of a manuscript text
+P11611	Norwegian media rating	age rating system for motion pictures, video and TV content used in Norway
+P1165	home world	home planet or natural satellite for a fictional character or species
+P1170	transmitted signal type	type of signal transmitted by a device
+P1171	approximation algorithm	method used to approximate a number
+P11738	handled, mitigated, or managed by	approach or method that can be used to address an issue or problem
+P11747	holds diplomatic passport of	country of the diplomatic passport held by the person
+P11799	alternate universe counterpart	this fictional character/entity is an alternate universe counterpart of the subject
+P11801	visited by	organisms attracted by this plant taxon and reported to visit it
+P11849	first performance by	performer or performing group for the first performance of a work
+P1189	Chinese Library Classification	identifier used for this class in the CLC
+P1192	connecting service	service stopping at a station
+P11922	verdict	decision made at the end of a trial by the judge or jury
+P1199	mode of inheritance	manner in which a particular genetic trait or disorder is passed from one generation to the next
+P1200	category for the water basin	the Wikimedia category associated with the basin of a bodies of water
+P12002	has heir or beneficiary	people or organizations that received, or will receive, (all or part of) the subject's property or title
+P1201	space tug	spacecraft vehicle designed to move the payload from a reference orbit to the target orbit, or direct it to an interplanetary trajectory
+P12011	tribe	recognised membership in a society, mainly denoted by shared cultural heritage; for ethnicity use P172
+P1202	carries scientific instrument	scientific instruments carried by a vessel, satellite, or device that are not required for propelling or navigating
+P12020	state of transmission	state in which a work is transmitted or its existence; for the state of its material witnesses, use P5816
+P12081	‎WHO Aware Classification	antibiotic classification according to the World Health Organization
+P12095	‎fonds	part of an archival collection which an item belongs to
+P1210	supercharger	supercharger or turbocharger used by an engine
+P1211	fuel system	fuel system that an engine uses
+P12121	‎IBP 6-letter bird species alpha code	standardized six-letter alphabetic code for bird species by the Institute for Bird Populations
+P12168	Torino scale	the Torino scale level for the astronomical object
+P1227	astronomical filter	passband used to isolate particular sections of the electromagnetic spectrum
+P12328	simulates	item simulated, imitated, or made to appear real by this item
+P12330	Philippine middle name	maternal surname generally placed in the middle of this person's name
+P12363	clerked for	this person has held a clerkship with the judge
+P1243	ISRC	international standard code for uniquely identifying sound recordings and music video recordings
+P12439	civil rank	non-military rank of a civil office holder in Russian Empire
+P12452	‎appeals to	court or other body that hears appeals from subject's decisions
+P12457	is invariant under	subject is unchanged by this process / function / group of transformation
+P12475	top scorer	best scorer of a single season of a team sport's competition or the best ever scorer of the history of a competition
+P12484	television judge	person who participates in a television show as a competition judge or mentor
+P12505	topic's main thesaurus	main Wikimedia thesaurus for this topic
+P12571	derived from base unit	the base unit(s) that this derived unit is derived from
+P126	maintained by	person or organization in charge of keeping the subject (for instance an infrastructure) in functioning order
+P12616	leaf morphology	characterization of aspects of the shape of a plant’s leaves
+P12617	‎creative director	person who makes high-level creative decisions
+P12621	beneficial owner	natural person or persons who ultimately owns or controls a company or organisation
+P1264	valid in period	time period when a statement is valid
+P12650	electoral symbol	symbol allocated to a political party or candidate for use on ballots
+P1268	represents	organization, individual, or concept that an entity represents
+P12686	category for births in this time period	category item for people who were born in this time period
+P12687	category for deaths in this time period	category item for people who died in this time period
+P12693	source of transfer	entity that a transferred item is initially associated with, before this process associates it with another entity
+P12694	destination of transfer	entity that a transferred item comes to be associated with as a result of this process
+P12714	tartan	item's tartan; Tartan is a Scottish cloth pattern symbolizing a clan, region, or group.
+P12763	taxon synonym of	name considered a preferred name, of which this item's taxon name is a synonym
+P12764	replaced synonym of	taxon item which replaced this taxon name (now only a synonym) - inverse property of replaced synonym (for nom. nov.) (P694)
+P12765	protonym of	taxon item of which this taxon name is a protonym (original name, for zoological taxa) - inverse property of original combination
+P12766	basionym of	taxon item of which this taxon name is a basionym (original name, for botanical and similar items) - inverse property of basionym (P566)
+P1278	Legal Entity Identifier	identifier for a legally distinct entity per ISO 17442
+P12795	showrunner	person who is responsible for the day-to-day operation of a television show
+P128	regulates (molecular biology)	process regulated by a protein or RNA in molecular biology
+P1283	filmography	"item for the list of films a person has contributed to. Don't use it to add film items. Instead, add actors as ""cast member"" (P161) on items for films, directors with ""director"" (P57)"
+P12830	music mood	qualifier carrying an emotion (mood) relevant to a musical audio recording
+P12878	last appearance	last work featuring a fictional character or item
+P1290	godparent	person who is the godparent of a given person
+P12912	object of occurrence	specific object to which an occurrence or class of occurrences applies
+P12913	object class of occurrence	class that includes the object(s) to which this occurrence (or class of occurrence) occurs or occurred
+P12933	relates to sustainable development goal, target or indicator	indicates a relation between the subject and the SDGs or one of the components
+P12969	game designer	person(s) who devised and developed this game
+P12992	objects of occurrence have role	role that objects of this occurrence take on in the context of this occurrence
+P12993	agents of action have role	role that agents of this action take on in the context of this action
+P12994	agent class of action	class of items that may initiate this action or class of actions
+P12995	agent of action	particular item that initiates this action or class of actions
+P1302	primary destinations	major towns and cities that a road serves
+P13047	leased to	person or organisation that holds or was granted a lease on the subject
+P1308	officeholder	persons who hold and/or held an office or noble title
+P1310	statement disputed by	entity that disputes a given statement
+P1312	has facet polytope	facet of a polytope, in the next-lower dimension
+P1318	proved by	person who proved something
+P1321	place of origin (Switzerland)	lieu d'origine/Heimatort/luogo d'origine of a Swiss national. Not be confused with place of birth or place of residence
+P1322	dual to	dual of a polytope, graph or curve
+P1327	partner in business or sport	professional collaborator
+P1336	territory claimed by	administrative divisions that claim control of a given area
+P1340	eye color	color of the irises of a person's eyes
+P1346	winner	"winner of a competition or similar event, not to be used for awards (instead use ""award received"" (P166) on awardee's item, possibly qualified with ""for work"" (P1686)) or for wars or battles"
+P1347	military casualty classification	allowed values:  killed in action (Q210392), missing in action (Q2344557), died of wounds (Q16861372), prisoner of war (Q179637), killed in flight accident (Q16861407), others used in military casualty classification
+P1349	ploidy	ploidy of a genome, a taxon or an anatomical entity
+P135	movement	literary, artistic, scientific or philosophical movement or scene associated with this person or work. For political ideologies use P1142.
+P1363	points/goal scored by	person who scored a point or goal in a game
+P1383	contains settlement	settlement which an administrative division contains
+P1387	political alignment	political position within the left–right political spectrum
+P1389	product certification	"certification for a product, qualify with P1001 (""applies to jurisdiction"") if needed"
+P1393	proxy	person authorized to act for another
+P1398	structure replaces	the item this building or structure replaced, at the same geographic location
+P1399	convicted of	crime a person was convicted of
+P1403	original combination	for animals: the combination (binomen or trinomen) where the species-group name used in this taxon name was first published
+P1406	script directionality	direction that a writing system goes in
+P1408	licensed to broadcast to	place that a radio/TV station is licensed/required to broadcast to
+P141	IUCN conservation status	conservation status assigned by the International Union for Conservation of Nature
+P1414	GUI toolkit or framework	framework or toolkit a program uses to display the graphical user interface
+P1419	shape	shape of an object
+P1420	taxon synonym	name listed as synonym of this item's taxon name
+P1423	template has topic	topic related to template
+P1424	topic's main template	the main template relating to a topic
+P1425	ecoregion (WWF)	ecoregion of the item (choose from WWF's list)
+P1427	start point	starting place of this journey, flight, voyage, trek, migration etc.
+P1429	has pet	pet that a person owns
+P1431	executive producer	executive producer of a movie, TV show, or other piece of media or entertainment
+P1433	published in	larger work that a given work was published in, like a book, journal or music album
+P1434	takes place in fictional universe	the subject is a work describing a fictional universe, i.e. whose plot occurs in this universe
+P1437	plea	whether a person pleaded guilty, not guilty, etc.
+P1444	destination point	destination for this route (journey, flight, sailing, exploration, migration, etc.)
+P1445	fictional universe described in	"to link a fictional universe with a work that describes it: <universe> ""described in the work:"" <work>"
+P1448	official name	official name of the subject in its official language(s)
+P1449	nickname	informal name (for a pseudonym use P742)
+P1451	motto text	short motivation sentence associated to item
+P1455	list of works	link to the article with the works of a person; use P358 for discographies
+P1462	standards body	organisation that published or maintains the standard governing an item
+P1464	category for people born here	category item that groups people born in this place
+P1465	category for people who died here	category item for people who died in this location
+P1471	reporting mark	reporting mark for railroads in North America
+P1472	Commons Creator page	"name of Commons Infobox template residing in ""Creator"" namespace on Wikimedia Commons"
+P1476	title	published name of a work, such as a newspaper article, a literary work, piece of music, a website, or a performance work
+P1477	birth name	full name of a person at birth, if different from their current, generally used name
+P1478	has immediate cause	nearest, proximate thing that directly resulted in the subject as outcome or effect. Used in conjunction with 'has cause' (i.e. underlying cause) and 'has contributing factor'. See 'Help:Modeling causes'.
+P1479	has contributing factor	thing that significantly influenced, but did not directly cause, this outcome or effect.  Used in conjunction with 'has cause' and 'has immediate cause'.  See '[[Help:Modeling causes]]'.
+P149	architectural style	architectural style of a structure
+P1531	hybrid of	parent of this hybrid breed or cultivar
+P1533	family name identical to this given name	last name that is the same as a given first name. Use on items for given names
+P1534	end cause	qualifier used together with the end date qualifier (P582) to specify the reason for the end
+P1536	immediate cause of	immediate effect of this cause
+P1537	contributing factor of	thing that is significantly influenced by this cause, but does not directly result from it.  See 'Help:Modeling causes' for examples and discussion.
+P1547	depends on software	subject software depends on object software
+P1549	demonym	Name (proper noun) for people or things associated with a given place, usually based off the place name; multiple entries with qualifiers to distinguish are used to list variant forms by reason of grammatical gender or plurality.
+P1557	manifestation of	inherent and characteristic embodiment of a given concept
+P1558	tempo marking	qualitative indication about the speed or pace of a given musical piece (use P1725 for numerical tempo markings)
+P1559	name in native language	name of a person in their native language
+P1560	given name version for other gender	equivalent name (with respect to the meaning of the name) in the same language: female version of a male first name, male version of a female first name. Add primarily the closest matching one
+P1568	definition domain	"set of ""input"" or argument values for which a mathematical function is defined; subset of input set"
+P157	killed by	person or organization who killed the subject
+P1571	codomain	codomain of a function
+P1574	exemplar of	property for manuscripts, autographs, incunabula, distinct printed copies
+P1576	lifestyle	typical way of life of an individual, group, or culture
+P1582	natural product of taxon	links a natural product with its source (animal, plant, fungal, algal, etc.)
+P1591	defendant	person or organization accused at a trial
+P1592	prosecutor	person representing the prosecuting authority, at a trial
+P1593	defender	person representing the defendant, at a trial
+P1594	judge	judge, magistrate or equivalent, presiding at a trial
+P1595	charge	offence with which someone is charged, at a trial
+P1596	penalty	penalty imposed by an authority
+P1598	consecrator	bishop who presided as consecrator or co-consecrator of this bishop
+P16	transport network	network the infrastructure is a part of
+P1604	biosafety level	level of the biocontainment precautions required to isolate dangerous biological agents
+P1605	has natural reservoir	host species for the pathogen in which it is endemic
+P1606	natural reservoir of	pathogen of which this species is a long-term host
+P161	cast member	"actor in the subject production [use ""character role"" (P453) and/or ""name of the character role"" (P4633) as qualifiers] [use ""voice actor"" (P725) for voice-only role]"
+P1611	NATO code for grade	NATO Code for Grades of Military Personnel
+P1612	Commons Institution page	"name of the institutions's page on Wikimedia Commons (without the prefix ""Institution"")"
+P162	producer	person(s) who produced the film, musical work, theatrical production, etc. (for film, this does not include executive producers, associate producers, etc.) [for production company, use P272, video games - use P178]
+P1620	plaintiff	party who initiates a lawsuit
+P1625	has melody	this work has the melody of the following work
+P1629	Wikidata item of this property	item corresponding to the concept represented by the property
+P1637	undercarriage	type of aircraft landing gear the item is equipped with
+P1638	working title	temporary name of a product or project used during its development
+P1639	pendant of	other work in a pair of opposing artworks, such as wedding portraits, commissioned together, but not always
+P1640	curator	content specialist responsible for this collection or exhibition
+P1652	referee	referee or umpire of a match
+P1654	wing configuration	configuration of wing(s) used by an aircraft
+P1656	unveiled by	person who unveils a statue, sculpture, memorial or plaque, etc.
+P1657	MPA film rating	US film classification administered by the Motion Picture Association
+P1660	has index case	initial patient in the population of an epidemiological investigation
+P1668	ATCvet	ATCvet code
+P167	structure replaced by	the item which replaced this building or structure, at the same geographic location
+P1671	route number	number of a rail or other public transport line
+P1672	this taxon is source of	"links a taxon to natural products it produces. Note that it does not say ""this taxon is the source of"" or ""this taxon is a source of"" as this may vary. Some products may be yielded by more than one taxon."
+P1678	has vertex figure	the figure exposed when a corner of a polytope is sliced off
+P1680	subtitle	for works, when the title is followed by a subtitle
+P1684	inscription	inscriptions, markings and signatures on an object
+P169	chief executive officer	highest-ranking corporate officer appointed as the CEO within an organization
+P1703	is pollinated by	how pollen from the male anthers is transferred to the female stigma of a flower
+P1704	is pollinator of	plant that this animal visits for pollen (and that it pollinates)
+P1705	native label	label for the items in their official language (P37) or their original language (P364)
+P1706	together with	qualifier to specify the item that this property is shared with
+P1716	brand	commercial brand associated with the item
+P1731	Fach vocal classification	method of classifying opera singers according to the range, weight, and color of their voices
+P1740	category for films shot at this location	the object is a category for films shot at or in the subject
+P175	performer	actor, musician, band or other performer associated with this role or musical work
+P1750	name day	"day of the year associated with a first/given name. A qualifier should be used to identify the calendar that is being used. Distinguish from ""feast day"" (P:P841)"
+P1753	list related to category	Wikimedia list equivalent to a Wikimedia category
+P1754	category related to list	Wikimedia category that matches the Wikimedia list
+P176	manufacturer	(main or final) manufacturer or producer of this product
+P177	crosses	obstacle (body of water, road, railway...) which this bridge (ferry, ford) crosses over or this tunnel goes under
+P1774	workshop of	artist whose work group are the likely creator of an artwork
+P1775	follower of	for unknown artists who work in the manner of the named artist
+P1777	manner of	for unknown artists who worked in a similar style as the named author, but not necessary from the same period
+P1779	possible creator	for a creative work with considerable uncertainty about the author
+P178	developer	organization or person that developed the item
+P1789	chief operating officer	the chief operating officer of an organization
+P179	part of the series	series which contains the subject
+P1791	category for people buried here	Wikimedia category for people with a burial site within this area
+P1792	category of associated people	Wikimedia category for people associated with this place or organization
+P180	depicts	entity visually depicted in an image, literarily described in a work, or otherwise incorporated into an audiovisual or other medium; see also P921,  'main subject'
+P1809	choreographer	person(s) who did the choreography
+P1811	list of episodes	link to the article with the list of episodes for this series
+P1813	short name	short name of a place, organisation, person, journal, wikidata property, etc. Used by some Wikipedia templates.
+P1817	addressee	person or organization to whom a letter or note is addressed
+P183	endemic to	sole location or habitat type where the taxon lives
+P184	doctoral advisor	person who supervised the doctorate or PhD thesis of the subject
+P1840	investigated by	person or organization involved in investigation of the item
+P1843	taxon common name	common or vernacular name of a biological taxon
+P185	doctoral student	doctoral student(s) of a professor
+P1851	input set	a superset of the domain of a function or relation that may include some inputs for which the function is not defined; to specify the set of only those inputs for which the function is defined use domain (P1568)
+P1853	blood type	blood type of the human or animal
+P186	made from material	material the subject or the object is made of or derived from (do not confuse with P10672 which is used for processes)
+P1875	represented by	person or agency that represents or manages the subject
+P1876	vessel	vessel involved in this mission, navigation or event
+P1877	after a work by	artist whose work strongly inspired / was copied in this item
+P1878	Vox-ATypI classification	classification for typefaces
+P1879	income classification (Philippines)	classification grade of a Philippine local government unit based on income
+P1880	measurement scale	scale by which a phenomenon is measured
+P1881	list of characters	Wikimedia page with the list of characters for this work
+P1884	hair color	person's hair color. Use P585 as qualifier if there's more than one value
+P1885	cathedral	principal church of a religious district
+P1887	vice-county	geographical delineation utilized for biological records in the British Isles
+P1888	DMNES-ID	identifier for an entry in the Dictionary of Medieval Names from European Sources
+P189	location of discovery	where the item was located when discovered
+P1891	signatory	person, country, or organization that has signed an official document (use P50 for author)
+P1897	highest note	highest note that an instrument can play or singer can sing
+P1898	lowest note	lowest note that an instrument can play or singer can sing
+P1903	volcanic explosivity index	scale indicating size of an explosive volcanic eruption
+P1909	side effect	effect of a medication or procedure, that occurs next to the desired effect
+P1922	first line	first line (incipit) of a poem, first sentence of a novel, speech, etc.
+P1923	participating team	like 'Participant' (P710) but for teams. For an event like a cycle race or a football match you can use this property to list the teams and P710 to list the individuals (with 'member of sports team' (P54) as a qualifier for the individuals)
+P1924	vaccine for	disease that a vaccine is for
+P193	main building contractor	the main organization (or person) responsible for construction of this structure or building
+P1937	UN/LOCODE	geographic location code mantained by UNECE
+P195	collection	art, museum, archival, or bibliographic collection the subject is part of
+P1950	second family name in Spanish name	second (generally maternal) family name in Spanish names (do not use for other double barrelled names) and in some French names.
+P1951	investor	individual or organization which invests money in the item for the purpose of obtaining financial return on their investment
+P1956	takeoff and landing capability	type of takeoff and landing the aircraft is designed to operate
+P196	minor planet group	is in grouping of minor planets according to similar orbital characteristics
+P197	adjacent station	the stations next to this station, sharing the same line(s)
+P1981	FSK film rating	"permitted audience of a film, according to the German film-rating system (add Prüfnummer with qualifier ""P2676"")"
+P199	business division	organizational divisions of this organization (which are not independent legal entities)
+P1990	species kept	taxa, preferably species, present at a zoo, botanical garden, collection, or other institution. NOT specific animals, not for any geographic location
+P1995	health specialty	main specialty that diagnoses, prevent human illness, injury and other physical and mental impairments
+P200	inflows	major inflow sources — rivers, aquifers, glacial runoff, etc. Some terms may not be place names, e.g. none
+P2002	X username	username on X (formerly Twitter); do not include the '@' symbol
+P201	outflows	rivers and other outflows waterway names. If evaporation or seepage are notable outflows, they may be included. Some terms may not be place names, e.g. evaporation
+P2012	cuisine	type of food served by a restaurant or restaurant chain or national food culture
+P2013	Facebook username	identifier for an official (preferably) Facebook person, product or organization page (everything that follows URL part 'https://www.facebook.com/')
+P2033	category for pictures taken with this camera	Commons category for photos taken with that camera model or model line
+P205	basin country	country that have drainage to/from or border the body of water
+P2058	depositary	depositary of the treaty
+P2061	aspect ratio (W:H)	image width to height ratio of films, photographs, and other images
+P2079	fabrication method	method, process or technique used to grow, cook, weave, build, assemble, manufacture the item
+P2093	author name string	stores unspecified author or editor name for publications; use if Wikidata item for author (P50) or editor (P98) does not exist or is not known. Do not use both.
+P2094	competition class	official classification by a regulating body under which the subject (events, teams, participants, or equipment) qualifies for inclusion
+P2095	co-driver	rally team member who performs as a co-driver or co-pilot
+P2098	substitute/deputy/replacement of office/officeholder	function that serves as deputy/replacement of this function/office (scope/conditions vary depending on office)
+P210	party chief representative	chief representative of a party in an institution or an administrative unit (use qualifier to identify the party)
+P2127	International Nuclear Event Scale	international scale for rating nuclear events and accidents
+P2152	antiparticle	particle with the same rest mass and opposite charges
+P2155	solid solution series with	"the mineral forms a continous (true) or discontinous ""solid solution series"" with another mineral"
+P2156	pseudo crystal habit	possible macrosopic appearance of a crystal different to its molecular symmetry (crystal cell, specimens with twinning or synthetic material)
+P2159	computes solution to	problem that this algorithm or method solves
+P2175	medical condition treated	disease that this pharmaceutical drug, procedure, or therapy is used to treat
+P2176	drug or therapy used for treatment	drug, procedure, or therapy that can be used to treat a medical condition
+P2210	relative to	qualifier: what a statement value is relative to
+P2239	first aid measures	actions to take to help a person in the case of exposure to this hazard or malady (accidents, injuries, harmful chemicals)
+P225	taxon name	correct scientific name of a taxon (according to the reference given)
+P2272	Hederich encyclopedia article	entry in Hederich’s encyclopedia of mythology, 3rd edition (1770), via zeno.org
+P2279	ambitus	musical interval/range of a melody
+P2286	arterial supply	arterial supply of an anatomical structure
+P2288	lymphatic drainage	lymphatic drainage of an anatomical structure
+P2289	venous drainage	vein draining the anatomical structure
+P229	IATA airline designator	two-character identifier for an airline
+P2291	charted in	chart where the element reached a position
+P2293	genetic association	general link between a disease and the causal genetic entity, if the detailed mechanism is unknown/unavailable
+P230	ICAO airline designator	three letter identifier for an airline (two letters only until 1982) (for airports, see P239)
+P2308	class	"qualifier to define a property constraint in combination with ""property constraint"" (P2302)"
+P2318	debut participant	participant for whom this is their debut appearance in a series of events
+P2319	elector	people or other entities which are qualified to participate in the subject election
+P2321	general classification of race participants	classification of race participants
+P2329	antagonist muscle	
+P2348	time period	time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred or with which it is associated
+P235	InChIKey	a hashed version of the full standard InChI
+P2353	statistical unit	member of a dataset; type of statistical designation
+P2358	Roman praenomen	standard part of the name of a Roman, link to items for specific Roman praenomen only
+P2359	Roman nomen gentilicium	standard part of the name of a Roman, link to items about the Roman gens only
+P2360	intended public	this work, product, object or event is intended for, or has been designed to that person or group of people, animals, plants, etc
+P2361	online service	online service or online service provider tied to an item
+P2363	NMHH film rating	rating of a film in the Hungarian film rating system
+P2364	production code	production code of a television episode
+P2365	Roman cognomen	standard part of the name of a Roman, link to items about specific Roman cognomen only.
+P2366	Roman agnomen	optional part of the name of a Roman, link to items about specific Roman agnomen only.
+P2371	FAO risk status	UN Food and Agriculture Organization designation of status for a domesticated breed
+P2375	has superpartner	"partner particle, in supersymmetry; inverse of ""superpartner of"""
+P2376	superpartner of	"partner particle, in supersymmetry; inverse of ""has superpartner"""
+P2378	issued by	organisation or other agent that issues or allocates an identifier, code, classification number, etc.
+P238	IATA airport code	three-letter identifier for designating airports, railway stations or cities (for airlines, see P229)
+P2384	statement describes	formalization of the statement contains a bound variable in this class
+P2389	organization directed by the office or position	organization which is directed by this office
+P2394	MGI Gene Symbol	official gene symbol for a mouse gene
+P2396	image of function	set of values that a mathematical function actually takes
+P2408	set in period	historical, contemporary, or future period, year, century or day the work or genre is set in or event featured in the story of the work
+P241	military branch	branch to which this military unit, award, office, or person belongs, e.g. Royal Navy
+P2414	substrate of	substrate that an enzyme acts upon to create a product
+P2416	sports discipline competed in	discipline an athlete competed in within a sport
+P2438	narrator	narrator, character or person that tells the story
+P2440	transliteration or transcription	conversion of text to alternate script (use as a qualifier for monolingual text statements; please use specific property if possible)
+P2441	literal translation	direct or word-for-word translation of a name or phrase (qualifier for name, title, inscription, and quotation properties)
+P2444	homoglyph	letter, number, or character which appears similar to another
+P2453	nominee	qualifier used with “nominated for” to specify which person or organization was nominated
+P2462	member of the deme	name of the deme in Ancient Attica to which the item belonged
+P248	stated in	to be used in the references field to refer to the information document or database in which a claim is made; for qualifiers use P805; for the type of document in which a claim is made use P3865
+P2499	league level above	the league above this sports league
+P2500	league level below	the league below this sports league
+P2501	results	results of a competition such as sports, elections or a formula
+P2502	classification of race	race for which this classification applies
+P2505	carries	item (e.g. road, railway, canal) carried by a bridge, a tunnel or a mountain pass
+P2512	has spin-off	works that are spin-offs of this item
+P2515	costume designer	person who designed the costumes for a film, television programme, etc.
+P2517	category for recipients of this award	link to Wikimedia category for recipients of this award
+P2522	victory	competition or sports event won by the subject
+P2537	Free Software Directory entry	link to the FSD page on a given software or license
+P2541	operating area	geographic area or jurisdiction an organisation or industry operates in, serves, or has responsibility for
+P2545	bowling style	type of bowling employed by a cricketer
+P2546	sidekick of	close companion of a fictional character
+P2548	strand orientation	orientation of gene on double stranded DNA molecule
+P2550	recording or performance of	item is a recording or release of this composition
+P2551	used metre	rhythmic structure of the poetic text or musical piece
+P2554	production designer	person(s) responsible for overall aesthetic of the story of this motion picture, play, video game or similar; responsible for visual concept, producing interior, exterior, location, graphics, etc; deals with many and varied logistic related to this
+P2560	GPU	graphics processing unit within a system
+P2561	name	name the subject is known by. If a more specific property is available, use that
+P2562	married name	name or surname adopted by a person upon marriage
+P2563	superhuman feature or ability	superhuman, supernatural, or paranormal abilities that the fictional subject exhibits
+P2567	amended by	document is amended by specified other document
+P2568	repealed by	document is repealed/inactived by specified other document
+P2572	hashtag	"reference keyword associated with this item for online communities (do not include the ""#"" symbol which is often used as a prefixed indicator)"
+P2575	measures	physical quantity that this device measures
+P2578	is the study of	the object that an academic field studies; distinct from field of work (P101), which is used for human, organization, etc.
+P2597	Gram staining	Gram stain type of a bacterial strain
+P2614	World Heritage criteria	selection criteria for UNESCO's cultural and natural 'World Heritage' designation since 2005
+P2629	BBFC rating	"British media content rating (add BBFC reference with qualifier ""P2676"")"
+P263	official residence	the residence at which heads of government and other senior figures officially reside
+P2632	place of detention	place where this person is or was detained
+P2634	model	person who appears in an artwork or photograph, in the role of an artist's model, rather than subject
+P2637	RARS rating	rating in the Russian media content rating system
+P264	record label	brand and trademark associated with the marketing of subject music recordings and music videos
+P2647	source of material	place the material used was mined, quarried, found, or produced
+P2650	interested in	item of special or vested interest to this person or organisation
+P2652	partnership with	partnership (commercial or/and non-commercial) between this organization and another organization or institution
+P2673	next crossing upstream	next crossing of this river, canal, etc. upstream of this subject
+P2674	next crossing downstream	next crossing of this river, canal, etc. downstream of this subject
+P2675	reply to	the intellectual work to which the subsequent work is a direct reply
+P2679	author of foreword	person who wrote the preface, foreword, or introduction of the book but who isn't an author of the rest of the book
+P2684	Kijkwijzer rating	Dutch media content rating system
+P2695	type locality (geology)	the locality where a particular rock type, stratigraphic unit or mineral species is defined from (can coincide but not the same as p189)
+P2700	protocol	communication protocol to use to access a dataset or service
+P2701	file format	file format, compression type, or ontology used in a file
+P2702	dataset distribution	particular manner of distribution of a data set (database or file) that is publicly available
+P2715	elected in	election in which a person gained a position (as qualifier), or a position or legislative term is/was elected (as main value)
+P272	production company	company that produced this film, audio or performing arts work
+P2738	disjoint union of	"every instance of this class is an instance of exactly one class in that list of classes. Use ""list item"" P11260 as qualifiers to specify the list of classes"
+P2739	typeface/font used	style of type used in a work
+P2743	this zoological name is coordinate with	links coordinate zoological names
+P2746	production statistics	amount of a certain good produced in/by the item
+P2747	Filmiroda rating	rating of a film in the former (2004–2011) Hungarian film rating system
+P275	copyright license	license under which this copyrighted work is released
+P2756	EIRIN film rating	category in the Japanese film rating system (add EIRIN number with qualifier P2676)
+P2758	CNC film rating (France)	category assigned to a film by the Board of Film Classification (CNC) which what audiences may view it in France
+P277	programmed in	the programming language(s) in which the software is developed
+P2770	source of income	source of income of an organization or person
+P2784	modified Mercalli intensity scale	measurement of the intensity of an earthquake
+P2789	connects with	item with which the item is physically connected
+P281	postal code	identifier assigned by postal authorities for the subject area or building
+P2813	house publication	media that speaks for an organization or a movement, and that is usually edited by its members
+P2817	appears in the heritage monument list	heritage monument is a part of the list of heritage monuments
+P2820	cardinality of this set	measure of number of elements of a set
+P2821	by-product	product of a chemical or industrial process, of secondary economic value
+P2822	by-product of	chemical or industrial process which produces the item as a by-product
+P2825	via	intermediate point on a journey - stopover location, waystation or routing point
+P2827	flower color	colour of flowers of a plant species, hybrid or cultivar
+P2828	corporate officer	person who holds a specific position
+P2831	totem	in many indigenous cultures an individual or group has a particular totem (e.g. a type of animal)
+P2838	professional name	name passed down by generation assumed by a master of a traditional Japanese art or sport such as kabuki or sumo
+P2839	gait	gait of an animal
+P2841	age of onset	age group in which disease manifestations appear
+P2846	disabled accessibility	describes disabled accessibility of location or event
+P2848	Wi-Fi access	internet access availability through Wi-Fi
+P2849	produced by	links a class of biological features (such as a biochemical compound) with another class of biological entities known to produce it
+P2851	payment types accepted	types of payment accepted by a venue
+P2852	emergency phone number	telephone number to contact emergency services
+P286	head coach	on-field manager or head coach of a sports club (not to be confused with a general manager P505, which is not a coaching position) or person
+P2860	cites work	citation from one creative or scholarly work to another
+P2868	subject has role	"role/generic identity of the item (""subject"") in the context of a statement. For the role of the value of the statement (""object""), use P3831 (""object has role""). For acting roles, use P453 (""character role""). For persons, use P39."
+P2869	record or record progression	links to item on the record or record progression
+P287	designed by	person(s) or organization which designed the object
+P2872	visitor center	official tourist office of this destination
+P2881	promoted	competitor or team promoted during competition
+P2882	relegated	competitor or team relegated during competition
+P2888	exact match	URL used to link two items or properties, indicating a high degree of confidence that the concepts can be used interchangeably
+P289	vessel class	series of vessels or other watercraft built to the same design of which this vessel is a member
+P2894	day of week	day of the week on which this item occurs, applies to or is valid
+P2912	distinctive jersey	distinctive jersey held by a class or stage leader in a cycling competition
+P2922	month of the year	month of the year during which this item occurs, applies to or is valid in
+P2925	domain of saint or deity	domain(s) which this saint or deity controls or protects
+P2935	connector	connectors which the device has/supports
+P2937	parliamentary term	term of a parliament or any deliberative assembly
+P2962	title of chess person	title awarded by a chess federation to a person
+P2964	right to vote	people who have right to vote at this election, referendum, etc.
+P297	ISO 3166-1 alpha-2 code	identifier for a country in two-letter format per ISO 3166-1
+P2974	habitat	the natural environment in which an organism lives, or the physical environment that surrounds a species population
+P2975	host	an organism harboring another organism or organisms on or in itself
+P2976	patronym or matronym for this name	patronym or matronym based on this given name
+P2978	wheel arrangement	wheel/axle arrangement for locomotives, railcars and other rolling stock
+P298	ISO 3166-1 alpha-3 code	identifier for a country in three-letter format per ISO 3166-1
+P2992	software quality assurance	quality assurance process in place for a particular software
+P300	ISO 3166-2 code	identifier for a country subdivision per ISO 3166-2 (include country code)
+P3005	valid in place	place where a statement is valid
+P3014	laws applied	the constitutional and statutory provisions that were the primary basis for a decision or law
+P3015	backup or reserve team or crew	team or crew that is kept ready to act as reserve
+P3018	located in protected area	protected area where a place or geographical feature is physically located
+P3019	railway signalling system	type of signalling used on this railway line
+P3022	flag bearer	person who carries the national flag of their country at an opening or closing ceremony
+P3024	ITU letter code	identifier for member countries of the  International Telecommunication Union radiocommunication division
+P3025	open days	days in the week subject item is open within the opening season
+P3026	closed on	exceptions to open days (P3025), usually special dates
+P3031	EPPO Code	identifier for a taxon in the EPPO Global Database
+P3032	adjacent building	building adjacent to the item
+P3033	package management system	package management system used to publish the software
+P306	operating system	operating system (OS) on which a software works or the OS installed on hardware
+P3068	WIPO ST.3	World Intellectual Property Organization standard for the two-letter codes of countries and certain organizations
+P3080	game artist	game artist(s) that produced art assets for a role-playing games, collectible card games, video game, etc.
+P3081	damaged	physical items damaged by this event
+P3082	destroyed	physical items destroyed by this event
+P3085	qualifies for event	this event qualifies for that event
+P3091	mount	creature ridden by the subject, for instance a horse
+P3092	film crew member	member of the crew creating an audiovisual work, used for miscellaneous roles qualified with the job title when no specific property exists. Don't use if such a property is available: notably for cast member (P161), director (P57), etc.
+P3093	recovered by	person, organisation or vehicle that recovered the item. Use the most specific value known.
+P3094	develops from	this class of items develops from another class of items (biology)
+P3096	KML file	item with sitelinks to wikimedia page containing text of a relevant KML file
+P3113	does not have part	expected part that the item does not have (for qualities, use P6477)
+P3132	last line	last line (excipit) of a poem, last sentence of a novel, etc.
+P3137	parent peak	parent is the peak whose territory this peak resides in, based on the contour of the lowest col
+P3148	repeals	this document or act repeals that other document or act
+P3150	birthday	"item for day and month on which the subject was born. Used when full ""date of birth"" (P569) isn't known."
+P3156	Australian Classification	content rating of an audiovisual work or video game in the Australian Classification system
+P3158	enclosure	the type of structure enclosing another structure
+P3173	offers view on	things, places this place offers views on
+P3174	art director	person credited as the art director/artistic director of this work; manages the process of making the visuals, which is done by concept artists, graphic designers, set designers, costume designers, lighting designers; See also P8938 for organizations
+P3189	innervated by	nerves which innervate this anatomical structure
+P3190	innervates	anatomical structures innervated by this nerve
+P3195	league points system	point system of an e.g. sports league
+P3205	patient of	was treated or studied as a patient by this person
+P3216	ClassInd rating	rating of an audiovisual work, video game or RPG in the Brazilian Advisory Rating System (ClassInd)
+P3259	intangible cultural heritage status	status of an item that is designated as intangible heritage
+P3261	anatomical branch of	main stem of this blood vessel, lymphatic vessel or nerve
+P3262	has anatomical branch	branches of this blood vessel, lymphatic vessel or nerve
+P3263	base	configuration of a polytop vertices around the symmetry axis
+P3264	radix	number of distinct digits in a positional numeral system
+P3274	content deliverer	third party service (e.g. Google Books, Internet Archive, etc.) that made the content available where it was accessed
+P3275	storyboard artist	person credited as the storyboard artist of this work
+P3279	statistical leader	leader of a sports tournament in one of statistical qualities (points, assists, rebounds etc.). Don't use for overall winner. Use a qualifier to link to the item about the quality.
+P3300	musical conductor	the person who directs a musical group, orchestra or chorus
+P3301	broadcast by	channel, network, website or service that broadcast this item over radio, television or the Internet
+P3306	ICAA rating	rating in the Spanish motion picture content rating system
+P3310	muscle action	action a muscle engages in
+P3320	board member	member(s) of the board for the organization
+P3335	associated hazard	hazards implicit in the subject item: that a sign warns of; that one may encounter in this place, on this thoroughfare; that are inherent properties of (or threats to) the subject; etc.
+P3342	significant person	person linked to the item in any possible way
+P3349	designed to carry	what the vehicle or class of vehicles is or was designed to carry
+P3364	stereoisomer of	target item is a stereoisomer of this item
+P3374	endianness	order of the bytes that compose a digital word in computer memory
+P3402	CNC film rating (Romania)	rating of a movie in the Romanian content rating system
+P3416	end period	last period in which the statement is still valid (including the period-value)
+P3428	INCAA film rating	rating of a movie in the Argentinian content rating system
+P3432	parent cell line	closest parent cell line of the cell line in question
+P3433	biological variant of	a variant of a physical biological entity (e.g., gene sequence, protein sequence, epigenetic mark)
+P3437	type of passengers/cargo	the type of passengers or cargo a vehicle actually carries/carried
+P3438	vehicle normally used	vehicle the subject normally uses
+P344	director of photography	person responsible for the framing, lighting, and filtration of the subject work
+P3440	time signature	specification of beats in a musical bar or measure
+P3441	FIFA country code	three-letter country code assigned by FIFA
+P3447	mirrors data from	the website automatically crawls or mirrors another website as its data source
+P3448	stepparent	subject has the object as their stepparent
+P3450	sports season of league or competition	"property that shows the competition of which the item is a season. Use P5138 for ""season of club or team""."
+P3460	colonel-in-chief	ceremonial position in a military regiment
+P3461	designated as terrorist by	country or organization that has officially designated a given group as a terrorist organization (e.g. for India, listed on http://mha.nic.in/BO )
+P3489	pregnancy category	official categorisation of safety of medicine in pregnancy
+P3490	muscle origin	the anatomic entity to which the beginning of a muscle is anchored
+P3491	muscle insertion	the anatomic entity to which the end of a muscle is anchored
+P3493	legal status (medicine)	legal status for pharmaceutical drugs, e.g. general sales list for paracetamol in the UK
+P3494	points classification	classification established according to points scored by runners
+P3497	teams classification by time	classification established by team with the criterion of the race time taken from a certain number of runners in the team
+P3501	Christian liturgical rite	Christian liturgical rite associated with this item
+P3512	means of locomotion	method that the subject uses to move from one place to another
+P353	HGNC gene symbol	the official gene symbol approved by the HGNC, which is typically a short form of the gene name
+P358	discography	item for list pages with discography of artist or band
+P3592	saros cycle of eclipse	
+P3602	candidacy in election	election where the subject is a candidate
+P3610	fare zone	fare zone that the station is in
+P364	original language of film or TV show	"language in which a film or a performance work was originally created. Deprecated for written works and songs; use P407 (""language of work or name"") instead."
+P3643	significant environmental impact	environmental issue determined to have a significant impact on the subject
+P3648	NatureServe conservation status	conservation status assigned by NatureServe
+P3650	JMK film rating	rating of a film in the Austrian film rating system
+P3679	stock market index	stock market indexes for companies traded on this stock exchange
+P3680	statement supported by	entity that supports a given statement
+P3701	incarnation of	incarnation of another religious or supernatural being
+P371	presenter	main role in presenting a radio or television program or a performing arts show
+P3712	has goal	desired result or outcome
+P3716	social classification	social class as recognized in traditional or state law
+P3719	regulated by	organization that acts as regulator of an activity, financial market, or stock exchange
+P373	Commons category	"name of the Wikimedia Commons category containing files related to this item (without the prefix ""Category:"")"
+P3739	inflorescence	placement of flowers on the stem of a flower plant
+P3741	seed dispersal	mode used by the item to disperse its seeds
+P375	space launch vehicle	type of rocket or other vehicle for launching subject payload into outer space
+P376	located on astronomical body	single astronomical body on which features or places are situated
+P3764	pole position	person, who starts race at first row (leader in the starting grid)
+P3771	activator of	protein for which this chemical acts as an activator
+P3772	agonist of	protein for which this chemical acts as an agonist
+P3774	blocker of	protein (e.g. channel/pore protein) for which this chemical compound acts as a blocker
+P3776	inhibitor of	"protein for which this chemical compound acts as an inhibitor; only specify the inhibited function if the protein has more than one function (qualifier ""of"")"
+P3780	active ingredient in	"is part of and forms biologically active component. Inverse of ""has active ingredient"""
+P3781	has active ingredient	"has part biologically active component; inverse of ""active ingredient in"" (P3780)"
+P3803	original film format	film format used to create a work (aliases: film gauge, film size)
+P3815	volcano observatory	institution that monitors this volcanic landform or phenomenon
+P3816	film script	script version for subject film is described at
+P3818	KMRB film rating	rating of a film in the South Korean film/video rating system
+P3822	rules for classification	the rules for classification of a sports league
+P3828	wears	clothing or accessory worn on subject's body
+P3831	object of statement has role	"(qualifier) role or generic identity of the predicate value/argument of a statement (""object"") in the context of that statement; for the role of the item the statement is on (""subject""), use P2868"
+P3833	diaspora	diaspora that a cultural group belongs to
+P3834	RTC film rating	rating of a film in the Mexican film classification system
+P3842	located in the present-day administrative territorial entity	the item was located in the territory of this present-day administrative unit; however the two did not at any point coexist in time
+P3858	route diagram template	Wikimedia template with route diagram
+P3871	tributary orientation	specify if the stream confluence is a left bank or right bank tributary
+P3876	category for alumni of educational institution	category containing people who studied at this institution
+P3878	Soundex	phonetic algorithm for indexing names by sound, as pronounced in English. Format: initial of word followed by 3 digits (0–6)
+P3902	had as last meal	components of the last meal had by a person before death
+P3912	newspaper format	physical size of a newspaper (berliner, broadsheet, tabloid, etc.)
+P3919	contributed to creative work	"person is cited as contributing to some creative or published work or series (qualify with ""subject has role"", P2868)"
+P3931	copyright holder	person or organisation who holds the copyright of a work according to the Berne Convention
+P3938	named by	person or organisation that coined the name; use as qualifier for P2561 and its subproperties
+P395	licence plate code	distinguishing signs or parts of license plate associated with the subject. For countries: international licence plate country code or distinguishing sign of vehicles
+P3966	programming paradigm	programming paradigm in which a programming language is classified
+P3967	final event	final event of a competition
+P397	parent astronomical body	major astronomical body the item belongs to
+P3975	general secretary	leader of a political or international organization, sometimes below the chairperson (P488)
+P398	child astronomical body	minor body that belongs to the item
+P3984	subreddit	name of the Reddit forum associated to this subject
+P3985	supports programming language	programming language which is supported by this programming tool
+P3989	members have occupation	some or all members of this group share the occupation
+P399	companion of	two or more astronomic bodies of the same type relating to each other
+P400	platform	platform for which a work was developed or released, or the specific platform version of a software product
+P4000	has fruit type	morphology of the fruit of this taxon, as defined in botany
+P4006	overrules	case that supersedes another case
+P403	mouth of the watercourse	the body of water to which the watercourse drains
+P4032	reviewed by	person who reviewed/refereed the work, e.g., scientific peer-reviewer
+P4033	Mastodon address	address on the Mastodon decentralized social network (the form is 'user@server.domain' without a leading '@')
+P404	game mode	video game's available playing mode(s)
+P4043	emulates	emulates the identified platform, CPU, or system
+P4044	therapeutic area	disease area in which a medical intervention is applied
+P406	soundtrack release	music release that incorporates music directly recorded from the soundtrack of an audiovisual work
+P408	software engine	software engine employed by the subject item
+P4082	captured with	equipment (e.g. model of camera, lens microphone), used to capture this image, video, audio, or data
+P4091	Irish Grid Reference	grid location reference from the Irish Grid reference system used in Ireland
+P410	military or police rank	"military or police rank achieved by a person (should usually have a ""start time"" qualifier), or military or police rank associated with a position"
+P4100	parliamentary group	parliamentary group to which a member of a parliament belongs
+P4101	thesis submitted to	institution to whom a thesis or dissertation is submitted
+P411	canonization status	Formal stage in the process of attaining sainthood per the subject's religious organization
+P412	voice type	person's voice type. expected values: soprano, mezzo-soprano, contralto, countertenor, tenor, baritone, bass (and derivatives)
+P414	stock exchange	exchange on which this company is traded
+P4147	conjugate acid	species formed by accepting a proton (H⁺)
+P4149	conjugate base	species formed by losing a proton (H⁺)
+P415	radio format	describes the overall content broadcast on a radio station
+P4151	game mechanics	constructs of rules or methods designed for interaction with the game state
+P416	quantity symbol (string)	symbol for a mathematical or physical quantity
+P4185	iconographic symbol	identifying element typically depicted as accompanying or worn by this religious figure, hero, fictional or historical character
+P4195	category for employees of the organization	Wikimedia category for people who work or worked at this organization
+P4220	order of battle	arrangement of units and hierarchical organization of the armed forces involved in the specified military action
+P4224	category contains	category contains elements that are instances of this item
+P4229	ICD-10-CM	identifier in the ICD-10-CM (International Classification of Diseases, 10th Revision, Clinical Modification)
+P423	shooting handedness	whether the hockey player passes or shoots left- or right-handed
+P427	taxonomic type	type genus or species: [in zoology:] nominal genus or species that is the name-bearing type of this nominal family or genus (or family-group ranked taxon or subgenus) [in botany unofficial]
+P4271	rating	qualifier to indicate a score given by the referenced source indicating the quality or completeness of the statement
+P4272	DPLA subject term	term for an item's subject area in the Digital Public Library of America
+P428	botanist author abbreviation	standard form (official abbreviation) of a personal name for use in an author citation (only for names of algae, fungi and plants)
+P4290	official app	official app for this organization or other entity (a downloadable application for Android, iOS, etc.)
+P4292	possessed by spirit	item which is spiritually possessing this item
+P4312	camera setup	filmmaking method that the cameras were placed by. Use single-camera (Q2918907) or multiple-camera (Q738160)
+P432	callsign of airline	identifier used in radio transmissions to refer to the subject airline
+P4320	mountains classification	person ranked for this cycling stage or race
+P4322	best sprinter classification	"person ranked as ""best sprinter"" for this cycling stage or race"
+P4323	young rider classification	person ranked as young participant for this cycling stage or race
+P4329	template or module that populates category	this category is populated by the following template or module
+P4330	contains	item or substance located within this item but not part of it
+P4345	director of archaeological fieldwork	person leading the archaeological or anthropological investigation at a given site
+P4353	nominated by	who nominated a person for an office or award; can be used as a qualifier
+P437	distribution format	method (or type) of distribution for the subject
+P4379	youth wing	group of younger people associated with this organization
+P4387	update method	method used by an app/OS to receive updates or self-update
+P4424	mandates	action or status required or requested by a motion
+P4425	mtDNA haplogroup	mitochondrial DNA haplogroup of a person or organism
+P4426	Y-DNA Haplogroup	Y-DNA haplogroup of a person or organism
+P4428	implementation of	implementation of a standard, program, specification or programming language
+P4437	FPB rating	rating of a film or video game in the South African media content rating system
+P4444	reward	reward, bonus, or prize received as part of a membership or loyalty program
+P4446	reward program	reward program associated with the item
+P4452	Thibaudeau classification	a classification (created by Francis Thibaudeau) for typefaces
+P449	original broadcaster	network(s) or service(s) that originally broadcast a radio or television program
+P450	astronaut mission	space mission that the subject is or has been a member of (do not include future missions)
+P451	unmarried partner	"someone with whom the person is in a relationship without being married. Use ""spouse"" (P26) for married couples"
+P4543	has listed ingredient	substance that's listed as ingredient on the packaging of the product; use P1545 to qualify the order of the listed ingredients
+P4545	sexually homologous with	body part that originates from the same tissue or cell during fetal development in the opposing sex
+P4552	mountain range	range or subrange to which the geographical item belongs
+P4584	first appearance	work in which a fictional/mythical character or entity first appeared
+P4586	type foundry	company releasing or distributing a font or typeface
+P4589	Dreadnought Project page	page on the Dreadnought Project website
+P459	determination method or standard	how a value is determined, or the standard by which it is declared
+P4599	monomer of	polymer composed of this monomer subunits
+P460	said to be the same as	this item is said to be the same as that item, though this may be uncertain or disputed
+P4600	polymer of	monomer of which this polymer compose
+P4608	scenographer	person who designed the stage or film set of this item
+P4614	drainage basin	area where precipitation collects and drains off into a common outlet, such as into a river, bay, or other body of water
+P4622	trophy awarded	trophy awarded at the end of a selection process or of a competition, usually to winners or finishers under the form of a cup, a medal, a diploma
+P4624	squadron embarked	the aircraft squadrons that served/serving on an aircraft carrier
+P4628	ICTV virus genome composition	classification of viruses of the International Committee on Taxonomy of Viruses by the molecular composition of the virus genome (DNA, RNA, double or single stranded and translational polarity)
+P4646	representation of	performing arts production the item is a representation of
+P4647	location of first performance	location where a work was first debuted, performed or broadcasted
+P466	occupant	person or organization occupying property
+P4661	reservoir created	reservoir created upstream of a dam by this dam
+P467	legislated by	indicates that an act or bill was passed by a legislature. The value can be a particular session of the legislature
+P4675	appears in the form of	this fictional or mythical entity takes the form of that entity
+P468	dan/kyu rank	rank system used in several board games (e.g. go, shogi, renju), martial arts (e.g. judo, kendo, wushu) and some other games
+P4688	geomorphological unit	topographic or bathymetric feature to which this geographical item belongs
+P469	lake on watercourse	lake or reservoir through which the river or stream flows
+P470	Eight Banner register	Manchu household register for people of the Qing Dynasty
+P4743	animal breed	subject item belongs to a specific group of domestic animals, generally given by association
+P4770	hydrated form of	given compound is an anhydrous form of this compound
+P4774	biological phase	biological period or stage when this biological process or phenomenon occurs
+P4777	has boundary	element that's on the two dimensional border that surrounds the subject; the limit of an entity
+P4788	storage device	data storage device supported by a machine (e.g. camera or mobile phone)
+P479	input device	input device used to interact with a software or a device
+P4791	commanded by	commander of a military unit/army/security service, operation, etc.
+P4792	dam	construction impounding this watercourse or creating this reservoir
+P4794	season starts	month or season when sports competition begins
+P4805	make-up artist	person in charge of make-up
+P4810	reads environment variable	an environment variable which a software program reads and may be effected by
+P483	recorded at studio or venue	studio or location where a musical composition/release was recorded
+P4843	development of anatomical structure	biological development of this anatomical structure
+P4844	research intervention	the focus of an experiment, also called the experimental variable, research activity, or study intervention
+P4878	symbolizes	"symbolism of an artistic element; can also be used as a qualifier for ""depicts"" (P180) statements"
+P4884	court	specific court a legal case is or was heard or decided in
+P489	currency symbol description	item with description of currency symbol
+P4908	season	season of a series (televison, web, podcast)
+P4913	dialect of	"language of which an item with this property is a dialect. Use in addition to ""subclass of"" (P279) if a languoid is also considered a dialect."
+P4934	calculated from	value of the subject item cannot be measured directly or can be calculated from the following measurands or attributes
+P4952	safety classification and labelling	classification data for the identification and labelling of chemical risks associated with a product
+P4954	may prevent disease	disease which may be prevented by this substance
+P4967	prerequisite	prior event or achievement that a person or team needs to complete before joining or obtaining the item topic, e.g. a qualifying round of a sports event, a lower-level course in an educational program, or a lower level of a professional qualification
+P4968	relevant qualification	practitioners of this industry get this degree, licence or certification after specialist education, apprenticeship, or professional review. This includes qualifications that one needs to obtain in order to join the industry or qualifications that one obtains after a certain level of experience in the industry in order to progress further in their career.
+P4969	derivative work	new work of art (film, book, software, etc.) derived from major part of this work
+P4988	test method	method in science, engineering or medicine, which determines the subject quantity, qualitative property or any other measurable attribute
+P500	exclave of	territory is legally or politically attached to a main territory with which it is not physically contiguous because of surrounding alien territory. It may also be an enclave.
+P5004	in opposition to	object of a social action
+P5009	complies with	the product or work complies with a certain norm or passes a test
+P501	enclave within	territory is entirely surrounded (enclaved) by the other territory
+P5012	special rank	non-military rank given to a civil office holder in Russia
+P5021	assessment	subject took the test or exam, or was assessed per test or method
+P5023	activity policy in this place	policy for activities in this place, for example no photos, photos allowed, no flash, lighting fires, flying drones, etc.
+P5025	gens	a clan or group of families from Ancient Rome who shared the same nomen
+P5028	sound designer	person responsible for the sound on a stage, in a film or in a radio drama
+P5030	talk show guest	person invited in a talk show
+P504	shipping port	"shipping port of the vessel (if different from ""ship registry""): For civilian ships, the primary port from which the ship operates. Port of registry →P532 should be listed in ""Ship registry"". For warships, this will be the ship's assigned naval base"
+P505	general manager	general manager of a sports team. If they are also an on-field manager use P286 instead
+P5051	towards	"qualifier for ""adjacent station"" (P197) to indicate the terminal station(s) of a transportation line or service in that direction"
+P5052	supervisory board member	member(s) of the supervisory board for the organization
+P5053	fastest lap	person who does the fastest lap during a motorsport race
+P5054	member of cabinet	"qualifier for ""position held"" (P39) to indicate the cabinet to which a minister belongs"
+P5056	patronym or matronym	part of a person's name that comes from the given name of a parent, in naming traditions that require it
+P5059	modified version of	indicates the work or one of its versions which served as a basis for the adaptation or arrangement resulting in the given version of the work
+P5061	unit symbol	abbreviation of a unit for each language; if not provided, then it should default to English
+P5072	presented in	event at which a talk, film, paper, or poster was presented
+P5095	fault	geological faults involved in the event
+P5096	member of the crew of	person who has been a member of a crew associated with the vessel or spacecraft. For spacecraft, inverse of crew member (P1029), backup or reserve team or crew (P3015)
+P511	honorific prefix	word or expression used before a name, in addressing or referring to a person
+P512	academic degree	academic degree that the person holds
+P5125	Wikimedia outline	item about an outline of the topic at Wikimedia sites
+P5126	assistant director	assistant stage director of a performing arts, film or television production
+P5131	possible medical findings	possible medical findings of a medical condition
+P5132	suggests the existence of	medical conditions associated with the subject medical finding
+P5133	has evaluation	evaluation or interpretation corresponding to the subject attribute or examination
+P5134	evaluation of	the subject finding is an evaluation or interpretation of the object attribute or test
+P5135	greater than	instances of the item have a greater value than corresponding instances of the object, for the given measure
+P5136	less than	instances of the item have a lesser value than corresponding instances of the object, for the given measure
+P5138	season of club or team	club or team that played the season
+P514	interleaves with	stratigraphic relation in which two units overlap each other marginally
+P5150	IGAC rating	rating of a film or theatrical production in the Portuguese classification system
+P5152	KAVI rating	rating in the Finnish film and television rating system
+P516	powered by	equipment or engine used by the subject to convert a source or energy into mechanical energy
+P5166	established from medical condition	cell line or xenograft established from an individual person or animal with a specific medical condition
+P517	interaction	subset of the four fundamental forces (strong (Q11415), electromagnetic (Q849919), weak (Q11418), and gravitation (Q11412) with which a particle interacts
+P518	applies to part, aspect, or form	part, aspect, or form of the item to which the claim applies
+P5185	grammatical gender	grammatical gender of the word
+P5196	output device	output device used to interact with a software or video game console
+P520	armament	equippable weapon item for the subject
+P5201	IMDA rating	rating in the Singaporean film and video game rating system
+P5202	adapted by	person responsible for the arrangement or adaptation resulting in this version of the original work
+P5203	topographic map	topographic map covering this geographic object
+P521	scheduled service destination	airport or station connected by regular direct service to the subject; for the destination of a trip see P1444
+P522	type of orbit	orbit a satellite has around its central body
+P523	temporal range start	the start of a process or appearance of a life form or geological unit relative to the geologic time scale
+P5236	prime factor	one of the prime numbers that can be multiplied to give this number
+P5237	pronunciation variety	qualifier for IPA transcription (P898), pronunciation audio (P443) or spoken text audio (P989) to indicate the associated spoken language variant
+P524	temporal range end	the end of a process such as a geological unit or extinction of a life form relative to the geologic time scale
+P5248	medical evacuation to	site to which those injured are evacuated immediately after a catastrophic event or a battle
+P5249	sports competition competed at	edition of sports competitions at which the club or team that played a season competed at. Use this to link items for team seasons to items for specific seasons of competitions.Sample: 2012–13 FC Barcelona season → 2012–13 UEFA Champions League
+P5278	surname for other gender	gender inflection of surname, patronymic or matronymic
+P528	catalog code	catalog name of an object, use with qualifier P972
+P5286	Portable Game Notation	move of a chess game provided as a string in Portable Game Notation
+P53	family	family, including dynasty and nobility houses. Not family name (use P734 for family name).
+P5304	type locality (biology)	geographical place of capture, collection or observation of the name-bearing type
+P5307	display technology	technology used by the display of this device
+P531	diplomatic mission sent	location of diplomatic mission, i.e. consulate of A in the capital city of B
+P532	port of registry	"ship's port of registry. This is generally painted on the ship's stern (for the ""home port"", see Property:P504)"
+P533	target	target of an attack or military operation
+P534	streak color	color of a mineral or material when abraded
+P5353	school district	school district to which a settlement or other item belongs
+P538	mineral fracture	fracture types in a mineral
+P5386	JMA Seismic Intensity Scale	maximum intensity scale of this earthquake given by JMA Seismic Intensity Scale
+P5389	permanent resident of	country or region where a person has the legal status of permanent resident
+P541	office contested	title of office which election will determine the next holder of
+P542	officially opened by	person that officially opened the event or place
+P5422	has pattern	pattern, design, or motif intrinsic to, incorporated into, or applied to the surface of the subject
+P543	oath made by	person(s) that made the oath at an event, like the Olympic Games
+P5446	reference value	value or range of values for a medical test (subject item), used to evaluate whether the results of the test are normal or not
+P545	torch lit by	person that lit the torch at an event, like the Olympic Games
+P546	docking port	intended docking port for a spacecraft
+P5460	grants	confers degree, honor, award, prize, title, certificate or medal denoting achievement to a person or organization
+P547	commemorates	what the place, monument, memorial, or holiday, commemorates
+P550	chivalric order	the chivalric order which a person belongs to
+P5514	accredited by	"optionally use together with ""subject has role"" (P2868)"
+P552	handedness	handedness of the person
+P5522	Unicode block	Unicode block that a character or code point is in
+P553	website account on	website that the person or organization has an account on (use with P554) Note: only used with reliable source or if the person or organization disclosed it.
+P556	crystal system	type of crystal for minerals and/or for crystal compounds
+P5572	expressed in	gene or protein is expressed during a specific condition/cell cycle/process/form
+P5588	invasive to	region which a taxon is not endemic to where the taxon has a tendency to spread to a degree believed to cause damage to the environment, human economy or human health
+P5589	microstructure	very small scale structure of a material, defined as the structure of a prepared surface of material as revealed by a microscope above 25× magnification
+P559	terminus	the feature (intersecting road, train station, etc.) at the end of a linear feature
+P5606	class of station	"class of a railway station, assigned by its operator; ""issued by"" is a mandatory qualifier."
+P5607	located in the religious territorial entity	the item is located on the territory of the following religious entity. Use P708 (diocese) for dioceses
+P562	central bank/issuer	central bank or other issuing authority for the currency
+P5623	type of water supply	the type of water supply for fountains, mountain huts, and other entities where water can be obtained
+P5642	risk factor	factor associated with a high prevalence of a particular gene, disease or characteristic. These factors can be country of origin, country of citizenship, race, gender, occupation, anamnesis, etc.
+P565	crystal habit	the form and proportions of a crystal or mineral
+P566	has basionym	the legitimate, previously published name on which a new combination or name at new rank is based
+P567	underlies	stratigraphic unit that this unit lies under (i.e. the overlying unit)
+P568	overlies	stratigraphic unit that this unit lies over (i.e. the underlying unit)
+P5692	dummy value	known test or sample values for identifier or scheme
+P57	director	director(s) of film, TV-series, stageplay, video game or similar
+P5707	samples from work	audio or video which this work uses a raw excerpt of
+P5769	editor-in-chief	a publication's editorial leader who has final responsibility for its operations and policies and the selection of authors, translators, illustrators, and formats for publishing articles or books in collections or periodical papers
+P579	IMA status and/or rank	status given to each mineral by the IMA (International Mineralogical Association)
+P58	screenwriter	person(s) who wrote the script for subject item
+P5800	narrative role	narrative role of this character (should be used as a qualifier with P674 or restricted to a certain work using P10663)
+P5805	OSI Model layer location	location of a network protocol in one of the OSI Model layers
+P5816	state of conservation	to indicate state of conservation of a building, monument, artifact, etc. It is not related with its heritage protection (P1435), but to its present state of conservation. Ex.: ruinous, demolished, correct, etc.
+P5817	state of use	to indicate state of use of a building, monument, etc. It is not related with its heritage protection (P1435), but to its present state of use. Ex.: abandoned, in use, temporarily closed, etc.
+P5826	majority opinion by	judicial opinion agreed to by more than half of the members of a court
+P5832	political coalition	agreement for cooperation between different political parties
+P5841	Status in the Red List of Threatened Species in the Czech Republic	endangerment status of species in the national Red List of the Czech Republic
+P5858	Index Herbariorum code	code in Index Herbariorum for plant collections
+P5872	smells of	what an item is said to smell like
+P588	coolant	substance used by the subject to dissipate excess thermal energy
+P589	point group	crystal subdivision
+P59	constellation	the area of the celestial sphere of which the subject is a part (from a scientific standpoint, not an astrological one)
+P5913	has paradigm class	inflectional pattern for groups of lexemes in the language
+P5940	plot expanded in	a narrative of this creative work is expanded in another work while '''not necessarily''' being part of the same series. For series use P179 instead
+P5970	Medierådet rating	rating of a film in the Danish movie content rating system
+P598	commander of (DEPRECATED)	for persons who are notable as commanding officers, the units they commanded
+P5995	kit supplier	official supplier of sports goods to a given sports club, sportsperson or a national sports team
+P5996	category for films in this language	link to category entity contains films in this language
+P5998	distributary	stream that branches off and flows away from the river
+P6022	expression, gesture or body pose	"qualifier on ""depicts"" (P180) for human position of an individual in an artwork"
+P608	exhibition history	exhibitions where the item is or was displayed
+P6087	coach of sports team	sports club or team for which this person is or was on-field manager or coach
+P609	terminus location	location of the terminus of a linear feature
+P6099	clinical trial phase	step designation for a clinical trial
+P6104	maintained by WikiProject	"WikiProject that maintains this property, item, or linked pages. If the WikiProject is hosted outside of Wikidata, define the scope using the qualifier ""of (P642)"""
+P611	religious order	order of monks or nuns to which an individual or religious house belongs
+P6112	category for members of a team	Wikimedia category for players playing for a sports team
+P6118	season ends	to indicate what month of the year a sports season ends
+P612	mother house	principal house or community for a religious institute
+P6153	research site	place where this item was researched
+P6166	quotes work	other creative work which this work quotes from textually, verbally or lyrically
+P618	source of energy	describes the source of energy an animated object (machine or animal) uses
+P6185	tautomer of	target item is a tautomer of this one
+P6186	category for eponymous categories	Wikimedia category that contains subcategories dedicated to specific instances of the said item
+P6193	ratified by	used to specify that a treaty has been ratified by a given state or subject of international law
+P6195	funding scheme	is supported under the funding scheme
+P6224	level of description	position of the unit of description in the hierarchy of the fonds
+P6237	real estate developer	person or organization responsible for building this item
+P624	guidance system	guidance system of a missile
+P6241	collection creator	entity (person, organization, etc.) that caused a record or collection to be produced or gathered
+P625	coordinate location	geocoordinates of the subject. For Earth, please note that only WGS84 coordinating system is supported at the moment
+P6251	catchphrase	commonly used phrase by which someone or something may be recognized
+P6259	epoch	epoch of an astronomical object coordinate
+P6271	demonym of	item that this sense is a demonym of
+P6275	copyright representative	person or organisation who represents the copyright for this person or work of art
+P6291	advertises	cause, organization or product targeted by the advertising campaign, character, jingle or slogan
+P631	structural engineer	person, group or organisation responsible for the structural engineering of a building or structure
+P6338	colorist	artist in charge of adding colors to drawings, comics, movie film, etc.
+P6339	reports periodicity	physical quantity corresponding to the interval of time between two measurements or reported data
+P634	team captain	captain of this sports team
+P636	route of administration	path by which a drug, fluid, poison, or other substance is taken into the body
+P6365	member category	category item for members of the organization
+P6375	street address	full street address where subject is located. Include building number, city/locality, post code, but not country; use also P669 if the street has its own separate item
+P642	of	(This property is being deprecated, see details at WD:P642) qualifier stating that a statement applies within the scope of a particular item
+P6424	affiliation string	qualifier to provide the published string form of affiliation attached to an author
+P6437	day of regular release	day(s) when parts of this creative work are released, aired, published, etc
+P6439	has lyrics	work whose text is used as the lyrics of this work
+P6440	maintenance method	method or steps that maintain, clean up, or repair this item and lengthens its lifespan
+P6452	CBFC rating	rating in the Indian film rating system
+P647	drafted by	which team the player was drafted by
+P6477	does not have characteristic	expected quality that the item does not possess
+P65	site of astronomical discovery	the place where an astronomical object was discovered (observatory, satellite)
+P6507	taxon author citation	valid author citation for a taxon using the appropriate nomenclature (ICBN, ICZN, ect.)
+P6512	UN/CEFACT Common Code	unit of measurement identifier as defined by the UN/CEFACT in Recommendation No. 20: Codes for Units of Measure Used in International Trade
+P652	UNII	identifier issued by the FDA / Unique Ingredient Identifier
+P6532	has phenotype	"a relationship that holds between a biological entity and a phenotype, equivalent to ""has property"" in the relation ontology http://purl.obolibrary.org/obo/RO_0002200"
+P6533	type of front suspension	system of tires, tire air, springs, shock absorbers and linkages that connects a vehicle to its front wheels and allows relative motion between the two
+P6534	type of rear suspension	system of tires, tire air, springs, shock absorbers and linkages that connects a vehicle to its rear wheels and allows relative motion between the two
+P654	direction relative to location	qualifier for geographical locations to express relative cardinal direction from the subject location to a target location
+P6540	multi-channel network	multi-channel network of which this YouTube channel is a member
+P655	translator	agent who adapts any kind of written text from one language to another
+P6568	inscription mentions	item about a person or an object mentioned in the inscription's text. Use on Wikimedia Commons on media files
+P6569	taxon especially protected in area	species and other taxa especially protected in a area, whether still actually present or not. Do not use for countries/subnational entities: use red lists properties instead.
+P657	RTECS number	chemical identifier from the Registry of Toxic Effects of Chemical Substances
+P658	tracklist	audio tracks contained in this release
+P6587	league system	league system the league belongs to
+P66	ancestral home	place of origin for ancestors of subject
+P664	organizer	person or institution organizing an event
+P6657	CHVRS Classification	Canadian movie classification
+P6658	RCQ classification	movie classification for the Régie du Cinéma Québécois
+P669	located on street	"street, road, or square, where the item is located. To add the number, use Property:P670 ""house number"" as qualifier. Use property P6375 ""street address"", if there is no item for the street"
+P6718	music video	short film integrating this composition with imagery
+P674	characters	characters which appear in this item (like plays, operas, operettas, books, comics, films, TV series, video games)
+P6758	supported sports team	sports team for which a person or a group is a supporter
+P676	lyricist	author of song lyrics
+P6785	Pakistan Railways station code	code to identify a railway station operated by Pakistan Railways
+P680	molecular function	represents gene ontology function annotations
+P6803	taxon found at location	plant or animals taxon described as present in location, not countries or first-level subnational entities. Requires reference. Ref should cover a limited number of taxa for specific location.
+P681	cell component	component of the cell in which this item is present
+P682	biological process	is involved in the biological process
+P684	ortholog	orthologous gene in another species (use with 'species' qualifier)
+P6840	student organization of	the members of this organization (club or society) are students of the target educational institution
+P6855	emergency services	emergencies treated by hospital or health care organization
+P6872	has written for	publication an author has contributed to
+P6875	motif represents	object or concept from which this motif is derived, or which it represents
+P688	encodes	the product of a gene (protein or RNA)
+P6885	historical region	geographic area which at some point in time had a cultural, ethnic, linguistic or political basis, regardless of present-day borders
+P6889	microarchitecture	processor microarchitecture
+P689	afflicts	type of organism which a condition or disease afflicts (for an organ affected by a condition, use P927)
+P690	space group	symmetry classification for 2 and 3 dimensional patterns or crystals
+P6902	era name	era name for rulers in East Asia
+P693	cleavage	way that crystalline materials cleave
+P6939	moved by	a person who moves a motion as parliamentary procedure
+P694	replaced synonym (for nom. nov.)	previously published name on which a replacement name (avowed substitute, nomen novum) is based
+P6942	animator	person creating animated sequences out of still images
+P6948	video system	video system hardware that the item uses
+P6954	online access status	property or qualifier for an ID property indicating whether linked content is directly readable online
+P6962	narrative motif	thematic unit in a narrative or literary work used to develop a theme, mood or plot
+P6978	Scandinavian middle family name	"middle name of some people from Denmark or Norway where a family name, usually the mother's, is taken on as a ""middle name"". For given names based on family names, use ""given name"" (P735). For Spanish names, use P734/P1950."
+P7007	Wolfram Language unit code	input form for a unit of measurement in the Wolfram Language
+P702	encoded by	the gene that encodes some gene product
+P703	found in taxon	the taxon in which the item can be found
+P7045	chassis	chassis type for cars, buses, trucks, etc.
+P7047	enemy	opponent character or group of this fictive character or group
+P707	spacecraft bus	general model on which multiple-production spacecraft is based
+P7075	mod of	video game this mod is based on
+P7078	typing discipline	specifies the typing discipline implemented, used, or mandated in a programming language
+P708	diocese	administrative division of the church to which the element belongs; use P5607 for other types of ecclesiastical territorial entities
+P7084	related category	Wikimedia category is related to this item
+P7086	start grade	lowest educational year (aka grade) taught by this institution
+P7095	end grade	highest educational year (aka grade) taught by this institution
+P7137	acknowledged	persons or institutions acknowledged on a creative work
+P7153	significant place	significant or notable places associated with the subject
+P7160	manner of inhumane treatment	manner of torture and other cruel, inhumane or degrading treatment or punishments as covered by the UN Convention experienced by the subject
+P7162	cases consolidated	what other cases this case consolidated
+P7163	typically sells	type of goods particular type of shops typically sell
+P7167	does not have effect	expected effect or usual effect of members of this class absent here
+P7169	substitute director/manager	substitute of the director/manager of an organization
+P720	asteroid spectral type	spectral classifications of asteroids based on  spectral shape, color, and albedo
+P7228	access restriction status	status of any access restrictions on the object, collection, or materials. Indicates whether the material is available to the general public or not.
+P725	voice actor	"performer of a spoken role in a creative work such as animation, video game, radio drama, or dubbing over [use ""character role"" (P453) as qualifier] [use ""cast member"" (P161) for live acting]"
+P7252	degree of difficulty	difficulty level of an item
+P7253	color produced	color or color range produced by a dye, alone or with a mordant
+P726	candidate	person or party that is an option for an office in this election
+P7261	use restriction status	status of any use restrictions on the object, collection, or materials
+P7309	climbing route	route used to get closer to a high point
+P7327	OFLC classification	rating in the media content rating system of New Zealand
+P736	cover art by	name of person or team creating cover artwork for book, record album, single record etc.
+P7374	educational stage	"educational stage of a specific school; qualifier of ""educated at"" (P69): the education stage of someone's attendance of school"
+P7376	worn by	person who wears or wore a garment or object
+P7377	infix	component of Dutch family name or similar of other languages, generally an unaffixed prefix. Depending on the language, country and application, it may be ignored in sorting. Note differences in capitalization and affixation (spaces)
+P7378	item disputed by	concept described by the item is criticized by other item(s)
+P739	ammunition	cartridge or other ammunition used by the subject firearm
+P741	playing hand	hand used to play a racket sport, cricket, fencing, or curling
+P7419	gender educated	genders educated at this educational institution
+P742	pseudonym	alias used by someone (for nickname use P1449)
+P744	asteroid family	population of asteroids that share similar proper orbital elements
+P7469	orientation	axis of alignment of an item, or direction perpendicular to its primary face (specify with P518 if necessary)
+P7479	key col	highest col connecting to an even higher point
+P748	appointed by	who appointed the person to the office, can be used as a qualifier
+P7500	comorbidity	presence of one or more additional conditions co-occurring with (that is, concomitant or concurrent with) a primary condition
+P7501	audio system	audio system hardware used in the item
+P7508	election called by	person who summoned an election
+P751	introduced feature	feature introduced by this version of a product item
+P7514	landscape architect	person or architectural firm that designed this outdoor area, possibly including landmarks and structures
+P756	removed feature	which feature was removed by this version of a product item
+P7561	category for the interior of the item	Commons category for media files depicting interior views of this item (object, place)
+P7573	IFCO rating	rating certificate of a film in the Irish content classification system
+P7582	Wildlife Protection Act 1972 (India) schedule	classification of species found in India as per legal protection status under Wildlife Protection Act 1972
+P7603	CITES Appendix	appendix of a taxon according to CITES convention
+P7604	supervised by	natural person who has the authority of giving instructions and/or orders to subordinates and is held responsible for the work and actions of subordinates
+P7643	covered period	historical period covered, for instance by a source
+P765	surface played on	the surface on which a sporting event is played
+P767	contributor to the creative work or subject	person or organization that contributed to a subject: co-creator of a creative work or subject
+P768	electoral district	"electoral district this person is representing, or of the office that is being contested. Use as qualifier for ""position held"" (P39) or ""office contested"" (P541) or ""candidacy in election"" (P3602)"
+P769	significant drug interaction	clinically significant interaction between two pharmacologically active substances (i.e., drugs and/or active metabolites) where concomitant intake can lead to altered effectiveness or adverse drug events.
+P770	cause of destruction	item which caused the destruction of the subject item
+P7719	generalization of	statement logically implied by the subject or a similar algorithm/function whose domain is a subset of the subject's domain
+P7727	legislative committee	committee in which the legislation is discussed
+P7767	serving temperature	serving temperature of a food dish
+P7779	military unit	smallest military unit that a person is/was in
+P7781	exonerated of	crime of which the subject was found not to be guilty after having previously been found guilty by a court for that crime
+P7782	category for ship name	Commons category for a name of a ship
+P780	symptoms and signs	possible symptoms or signs of a medical condition
+P783	hymenium type	type of spore-bearing surface of a mushroom
+P784	mushroom cap shape	property classifying the shape of the cap of a mushroom
+P785	hymenium attachment	how the hymenium of the mushroom attaches to the stem
+P786	stipe character	indicates whether a mushroom has a universal or partial veil
+P7861	category for files created with program	Commons category for files created with that program
+P7867	category for maps	name of the Wikimedia category specifically for maps or plans of this item
+P787	spore print color	color of a mushroom spore print (see documentation for allowed values)
+P788	mushroom ecological type	property classifying the ecological type of a mushroom
+P7888	merged into	the subject was dissolved and merged into the object, that existed previously
+P789	edibility	whether a mushroom can be eaten or not
+P790	approved by	item is approved by other item(s) [qualifier: statement is approved by other item(s)]
+P7936	business model	business model a business enterprise or creative work operates under
+P795	located on linear feature	linear feature along which distance is specified from a specified datum point
+P798	military designation	officially assigned designation for a vehicle in military service
+P7984	depicted format	property to help describe the format type of depicted subject, commonly confused with genre
+P8001	endorsed by	public support given by a person or organization to a political or other campaign
+P8005	research subject recruitment status	categoric way to express whether a research project is or was open for enrolling research subjects meeting certain characteristics
+P8006	footedness	dominant foot or preferred stance of this person
+P802	student	notable student(s) of the subject individual
+P8026	LiverTox likelihood score	categorization of the likelihood that a medication is associated with drug induced liver injury that was developed by the Drug-Induced Liver Injury Network (DILIN) Network and published in NCBI's LiverTox
+P803	professorship	professorship position held by this academic person
+P8030	size designation	organizational size classification or designation used to indicate relative size of an entity within an organization (property under development)
+P8031	perpetrator	person or organization who carried out a harmful, illegal, or immoral act
+P8032	victim(s)	person(s) who were harmed from an act or event
+P8045	organized response related to outbreak	specific action taken or system used as a reaction to an outbreak
+P8047	country of registry	country where a ship is or has been registered
+P805	statement is subject of	(qualifying) item that describes the relation identified in this statement
+P8058	symbol of	item of which the image is a symbol
+P807	separated from	subject was founded or started by separating from identified object
+P8097	network bands	network bands supported by the device
+P81	connecting line	railway line(s) subject is directly connected to
+P8107	bus	bus used on computer hardware, mainly relevant for supercomputer nodes interconnect
+P8111	recommended unit of measurement	unit in which a quantity is measured as recommended by a standard (SI, ISO, IEC, etc.)
+P8115	eligible recipient	party that is eligible to receive something, like an award, grant or prize
+P812	academic major	major someone studied at college/university
+P8127	tournament format	format of a sports tournament
+P8131	dialect of computer language	computer language of which an item with this property is a dialect (a relatively small variation)
+P814	IUCN protected areas category	protected areas category by the World Commission on Protected Areas. Used with dedicated items for each category.
+P816	decays to	what isotope does this radioactive isotope decay to
+P8193	hardiness of plant	recommended hardiness zone for plant, ability of plant to survive adverse growing conditions
+P8194	hardiness zone	geographic climate area relevant to plant growth and survival, on USDA scale or similar
+P8196	voting system	system used for this election or vote
+P8203	supported metadata	metadata, information or properties that can be stored by a system, message or structure
+P822	mascot	mascot of an organization, e.g. a sports team or university
+P8225	is metaclass for	all instances of the subject are subclasses of the object
+P823	speaker	person who is speaker for this event, ceremony, keynote, presentation or in a literary work
+P8248	Colon Classification	"type of library classification, to be used for topics, not for written works; use with qualifier ""edition (P747)"" with item value ""CC 6"" or ""CC 7"""
+P825	dedicated to	person or organization to whom the subject was dedicated
+P8258	field of training	profession, position or activity someone learnt during a training, traineeship or apprenticeship
+P826	tonality	key of a musical composition
+P831	parent club	parent club of this team
+P8324	funder	entity that gives money to a person, organization, or project for a specific purpose
+P8329	principal investigator	person(s) in charge of conducting a research project
+P833	interchange station	station to which passengers can transfer from this station, normally without extra expense
+P8339	entry receptor	receptor protein or protein whose receptor is being used by this subject virus/microorganism group to enter cells
+P834	train depot	depot which serves this railway line, not public stations
+P8345	media franchise	this creative work belongs to this media franchise
+P8360	Library of Congress Classification (works and editions)	Library of Congress Classification number assigned to a publication; includes both the subject portion and the shelflisting portion of a number
+P8362	Regensburg Classification (works and editions)	RVK number assigned to a publication
+P8363	study type	classification system for clinical trial, experiment, research
+P837	day in year for periodic occurrence	when a specific holiday or periodic event occurs. Can be used as property or qualifier
+P8371	references work, tradition or theory	"creative work, tradition or theory this creative work references by allusion, quote or similar means (for citations in scholarly and legal works use P2860, for other more specific properties have a look at ""see also"" on the property page)"
+P84	architect	person or architectural firm responsible for designing this building
+P840	narrative location	the narrative of the work is set in this location
+P8402	open data portal	the item for the open data portal belonging to this entity
+P8403	theorised by	subject who suggested or proposed this concept or invention
+P841	feast day	saint's principal feast day
+P8411	set in environment	environment (geographic feature, building type, etc.) the narrative work is set in
+P8413	academic appointment	this person has been appointed to a role within the given higher education institution or department; distinct from employment or affiliation
+P8419	Archive of Our Own tag	tag for this item on Archive of Our Own
+P8423	version control system	version control system used by a content repository
+P8431	course	course type of a food dish (appetizer, dessert, drink, main course, salad, side dish)
+P8450	peak bagging classification	recognised peak bagging classification of a mountain or hill
+P8453	public transport stop	general (e.g. nearest) public transport stop (bus, tram, train, subway)
+P8464	content partnership category	Wikimedia Commons category for media files contributed by this institution
+P8480	Ofsted inspection rating	grade for a school inspection by Ofsted
+P8500	Vietnamese middle name	middle name of a Vietnamese person; use P735 qualified by P1545 for the middle name of a partially westernized name
+P852	ESRB rating	North American video game content rating
+P853	CERO rating	Japanese video game rating system
+P8546	recording location	location where a media item (sound, video, etc.) was recorded
+P8571	external auditor	external company or person appointed to audit a business' or an organization's books, requirement for many companies
+P859	sponsor	organization or individual that sponsors this item
+P8596	category for the exterior of the item	category for multimedia files depicting exterior views of this item (object, place)
+P86	composer	"person(s) who wrote the music [for lyricist, use ""lyrics by"" (P676)]"
+P8646	expansion of	expansion pack of a game (video game, tabletop or board game)
+P8652	Netflix maturity rating	content rating used and determined by Netflix in countries where local ratings do not apply to streaming media
+P8670	character designer	person in charge of developing the style and concept of a character in a video game, anime or other creative work
+P868	foods traditionally associated	foods usually during the ceremony or associated with a certain settlement
+P8693	fandom	fan group of a celebrity, musical group, artist, work, etc.
+P87	librettist	author of the libretto (words) of an opera, operetta, oratorio or cantata, or of the book of a musical
+P870	instrumentation	combination of musical instruments employed in a composition or accompanying a (folk) dance
+P8701	has census	general population census of the country or region
+P8702	parallel street	closest street(s) that run parallel to the item
+P8703	entry in abbreviations table	abbreviation of name of concept in a publication's list of abbreviations
+P872	printed by	"organization or person who printed the creative work (if different from ""publisher"")"
+P873	phase point	phase point to describe critical point and triple point (see talk page for an example)
+P8738	permits	the norm or license permits people to engage in the object
+P8739	prohibits	subject proscribes a prohibition of the object (use qualifiers to specify context)
+P8745	check-in time	the earliest time of day at which a reserved room in a hotel, inn or lodge is available to an arriving guest
+P8746	check-out time	the latest time of day a guest may check out of a hotel or lodge without incurring additional cost
+P878	avionics	notable sensors, electronics, and other avionics installed in the subject aircraft
+P8786	dedicated heritage entity	heritage entity dedicated to or associated with the item's subject
+P88	commissioned by	person or organization that commissioned this work
+P880	CPU	central processing unit found within the subject item
+P881	type of variable star	type of star
+P8810	parent	parent of the subject. Only use if neither father (P22) nor mother (P25) nor stepparent (P3448) is applicable.
+P8822	epithet	has an epithet (byname), for a human, a character or a deity
+P8839	hairstyle / hairlength	style or length of cutting, arranging, or combing the hair on the subject's scalp
+P885	origin of the watercourse	main source of a river, stream or lake
+P8852	facial hair	style of cutting, arranging, or combing the hair on the subject's face (usually on the chin, cheeks, and upper lip region); beard
+P8865	mathematical inverse	inverse element with respect to binary operation given as a qualifier using P2210
+P8866	has operator	mathematical operator associated with this algebraic structure
+P8874	Hong Kong film rating	Hong Kong film classification system
+P8875	indexed in bibliographic review	bibliographic review(s) and/or database(s) which index this academic journal
+P8889	MTRCB rating	rating of a film or television program in the Philippines
+P8901	ELSPA rating	rating of a video game in the British ELSPA rating system (1994 - Spring 2003)
+P8927	kunya	teknonym in Arabic names, the name of an adult derived from their eldest child or from their characteristics
+P8933	category for the view from the item	category for the view from this item (object, place)
+P8938	artistic director	person responsible for the overall artistic vision of an organization and for its execution. See also P3174 for works.
+P8939	Google Play developer slug	human-readable identifier for a developer on the Google Play Store
+P8956	compatible with	this work, product, object or standard can interact with another work, product, object or standard
+P8984	CPV Supplementary	supplementary code for Common Procurement Vocabulary (CPV, P5417) expanding the description of the subject of a contract by adding further details regarding the nature or destination of the object of the contract in the EU
+P8989	category for the view of the item	category for the view of this item (object, place)
+P901	FIPS 10-4 (countries and regions)	Identifier for countries and regions per former Federal Information Processing Standard FIPS 10-4
+P9028	CCC classification	Chilean video game content rating as dictated by Decree 51
+P9030	solution to	a mathematical object that satisfies the criteria for a mathematical problem
+P9047	archaeological site of	at this archeological site the object has been uncovered
+P9059	subdivision of this unit	name of subdivision of this unit/currency
+P9071	character type	generic character type that this fictional character represents
+P9072	derived from organism type	the taxon that the organism from which the subject cell line was derived belonged to (different from found in taxon (P703) because cell lines are derived only once from a single individual)
+P908	PEGI rating	European video game content rating system
+P9086	BAMID film rating	rating in the Taiwanese movie content rating system
+P91	sexual orientation	the sexual orientation of the person relative to their declared gender — use ONLY IF they have stated it themselves, unambiguously, or it has been widely agreed upon by historians after their death
+P912	has facility	the subject item has this type of facility, e.g. toilet, car park
+P913	notation	mathematical notation or another symbol
+P9139	first family name in Portuguese name	first (generally maternal) family name in Portuguese names
+P914	USK rating	German video game content rating - see talk page for appropriate values
+P915	filming location	"actual place where this scene/film was shot. For the setting, use ""narrative location"" (P840)"
+P916	GSRR rating	Taiwanese video game content rating system
+P9161	thesis committee member	"member of the committee for this thesis or dissertation; for any type of thesis (bachelor's, master's, doctoral, etc.). Qualify with ""object has role"" (P3831) to indicate chair"
+P9191	letterer	person responsible for drawing the comic book's text, word balloons, etc.
+P9192	sensors	notable sensors in the electronic device
+P9215	set during recurring event	recurring event (e.g. season, month, holiday) during which this fictional work is set
+P922	magnetic ordering	magnetic ordering of a substance
+P923	medical examination	examinations that might be used to diagnose and/or prognose the medical condition
+P9234	supplement to	subject work or edition updates or otherwise complements the object work or edition
+P9235	seismic classification	seismic risk zone which the administrative entity that receives the seismic classification is in
+P9237	reissue of	reissue of musical work, release
+P9239	affiliated worker organisation	organization representing workers in a specific company
+P924	possible treatment	health treatment used to resolve or ameliorate a medical condition
+P926	postsynaptic connection	neuron connects on its postsynaptic end to
+P927	anatomical location	where in the body or cell does this feature lie or happen
+P928	activating neurotransmitter	which neurotransmitter activates the neuron
+P930	type of electrification	electrification system scheme and/or voltage
+P9302	script style	style of script of a document or typeface
+P931	place served by transport hub	territorial entity or entities served by this transport hub (airport, train station, etc.)
+P9344	has graphical element	mark, motif, coat of arms, map, or other graphic element added to a creative work
+P935	Commons gallery	name of the Wikimedia Commons gallery page(s) related to this item (is suitable to allow multiple links to more gallery pages)
+P9353	does not have cause	expected cause, assumed cause or usual cause absent here
+P941	inspired by	work, human, place or event which inspired this creative work or fictional entity
+P9419	personal library at	institution holding the subject’s personal library
+P942	theme music	the theme music/song used by the item
+P943	programmer	the programmer that wrote the piece of software
+P944	code of nomenclature	the code that governs the scientific name of this taxon
+P945	allegiance	country (or other power) that the person or group serves
+P9493	artist files at	institution or collection that holds artist files about the subject
+P9549	official podcast	official podcast of this person or organization
+P9566	diel cycle	"pattern of diel activity in animals, such as ""nocturnal"" (Q101029366), ""diurnal"" (Q4284186)"
+P9597	type of lens	type of lens used in a lighthouse, telescope, camera, etc.
+P9600	oral history at	institution holding an oral history of the subject
+P9611	district heating grid	district heating (or cooling) grid of region/locality connecting producers and residential or commercial consumers in the area
+P9652	personality trait of fictional character	particular personality trait which applies to this fictional character
+P9660	not found in	publication or database relevant to the topic that would generally include similar subjects, but in which the subject isn't described or attested. Use if there is no external-id property for the work.
+P967	guest of honor	guest(s) of honor invited to an event, e.g. a convention
+P9681	voted on by	a legislative house in which a legislative act was voted on
+P9683	Qualis rank	rank of an academic journal on the Qualis/CAPES system
+P97	noble title	titles held by the person
+P9700	delta of	river that empties water and sediment into its delta
+P9714	taxon range	geographic area(s) where a taxon is found
+P972	catalog	catalog for the item, or, as a qualifier of P528 – catalog for which the 'catalog code' is valid
+P974	tributary	watercourse that flows into an other one (for lake inflows use P200)
+P9745	translation of	edition, version, or expression that this translation is translated from
+P9793	setlist	performances of songs or other music at an event; concert program
+P9798	Classification of the Functions of Government	UN classification to compare government agencies across countries
+P9803	UEFA stadium category	Category of the sports facility according to the UEFA Stadium Infrastructure Regulations
+P9813	container	the type or representing item that is located outside of and is not part of the item and fully contains it
+P984	IOC country code	three-letter abbreviation country code by the International Olympic Committee
+P9866	GRAC rating	age rating category as designated by the South Korean Game Rating and Administration Committee (GRAC)
+P9883	created for	a work, event, etc. for which the subject work was created (e.g., a presidential inauguration that a poem was written for; a competition that a play was created for; a film that a screenplay was written for)
+P9888	NZTCS conservation status	the conservation status from the New Zealand Threat Classification System assigned by the New Zealand Department of Conservation
+P9895	SMECCV classification	Video game content rating category by the Secretariat of the Interior of Mexico
+P9897	App Store age rating	content rating category by Apple for software published at the App Store
+P9899	music created for	a work, event, etc. for which a musical composition was created (e.g., a play for which incidental music was composed; a ballet for which ballet music was written; a film for which motion picture music was created)
+P9901	issuing agent of work	organization, agency, or other entity responsible for issuing a serial or other continuing resource, such as the official publication of the entity; distinct from commercial publisher of the resource
+P991	successful candidate	person(s) or political organization(s) elected after the election
+P9926	template populates category	Wikimedia category which is populated by a template
+P9929	madhhab	Islamic school of thought within Fiqh
+P9969	critical catalogue	a comprehensive, annotated listing of all the known artworks by an artist either in a particular medium or all media.
+P9977	isotopically modified form of	given molecular entity is a form with natural isotopic composition
