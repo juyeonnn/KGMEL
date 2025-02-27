@@ -2,7 +2,7 @@
 
 ## Setup 
 
-### 1. Data Preparation
+### 0. Data Preparation
 
 You can download the required datasets from the [MIMIC repository](https://github.com/pengfei-luo/MIMIC).
 
@@ -22,26 +22,7 @@ tar -xzf /data/dataset/image/RichpediaMEL.tar.gz -C /data/dataset/image/
 tar -xzf data/KB_image.tar.gz -C /data/
 ```
 
-### 2. Create Required Directories
-
-Ensure all required directories exist (most will be created automatically when extracting the data files):
-
-```bash
-# The following directories should already exist after data extraction,
-# but you can create them if needed
-mkdir -p checkpoints
-mkdir -p embedding/combined
-mkdir -p embedding/entity
-mkdir -p embedding/mention
-mkdir -p output
-```
-
-These directories store various components of the pipeline:
-- `checkpoints/`: Saved model checkpoints
-- `embedding/`: Precomputed embeddings for entities and mentions
-- `output/`: Results and evaluation outputs
-
-### 2. Install Dependencies
+### 1. Install Dependencies
 
 Install the required Python packages:
 
@@ -49,7 +30,7 @@ Install the required Python packages:
 pip install -r requirements.txt
 ```
 
-### 3. Set API Credentials
+### 2. Set Keys and Tokens
 
 Set up the necessary API keys and tokens:
 
@@ -75,7 +56,7 @@ wandb login
 
 You can add these to your `.bashrc` or `.bash_profile` for persistence, or include them in your run script for convenience.
 
-### 4. Run the Code
+### 3. Run the Code
 
 Execute the run script:
 
