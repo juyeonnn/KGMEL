@@ -1,9 +1,3 @@
-"""
-GPT Vision-based Image Processing Pipeline
-This module processes images using GPT Vision models to generate knowledge graph triples.
-"""
-
-import argparse
 import json
 import os
 import base64
