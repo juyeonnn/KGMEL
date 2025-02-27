@@ -22,18 +22,6 @@ tar -xzf /data/dataset/image/RichpediaMEL.tar.gz -C /data/dataset/image/
 tar -xzf data/KB_image.tar.gz -C /data/
 ```
 
-After extraction, you should have the following directory structure:
-```
-/data/
-├── dataset/
-│   └── image/
-│       ├── WikiMEL/
-│       ├── WikiDiverse/
-│       └── RichpediaMEL/
-└── KB/
-    └── image/
-```
-
 ### 2. Create Required Directories
 
 Ensure all required directories exist (most will be created automatically when extracting the data files):
