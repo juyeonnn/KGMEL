@@ -1,0 +1,13 @@
+numpy==1.26.4
+pandas==2.2.3
+torch==2.0.1
+tqdm==4.67.0
+torch-geometric==2.6.1
+transformers==4.48.0
+huggingface-hub==0.26.2
+openai==1.62.0
+Pillow==11.0.0
+h5py==3.12.1
+regex==2024.11.6
+wandb==0.18.7
+requests==2.32.3
