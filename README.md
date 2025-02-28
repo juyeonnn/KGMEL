@@ -10,7 +10,7 @@ You need to download the following files from our [Dropbox](https://www.dropbox.
 - `triple.tar` - Knowledge graph triples 
 - `mention_image.tar` - Mention images 
 - `kb_image.tar` - Knowledge base entity images
-- 
+
 Place the files in the following locations:
 - `mention_image.tar` → Place in the `data/dataset/` directory
 - `kb_image.tar` and `triple.tar` → Place in the `data/KB/` directory
@@ -27,23 +27,6 @@ tar -xf data/KB/kb_image.tar -C data/KB/
 tar -xf data/KB/triple.tar -C data/KB/
 ```
 
-After extraction, you should have the following directory structure:
-```
-├── data/
-│   ├── dataset/        # Contains the 3 MEL datasets (WikiMEL, WikiDiverse, RichpediaMEL)
-│   │   ├── image/      # Contains extracted image datasets from mention_image.tar
-│   │   ├── mapping/    # Contains mapping files for dataset processing
-│   │   ├── RichpediaMEL.json
-│   │   ├── WikiDiverse.json
-│   │   └── WikiMEL.json
-│   └── KB/              # Contains Knowledge Base data with including KG triples
-│       ├── image/       # Contains extracted image datasets from kb_image.tar
-│       ├── PID2Label.tsv
-│       ├── QID2Label.tsv
-│       ├── Triples-RichpediaMEL.tsv  # These triple files come from triples.tar.gz
-│       ├── Triples-WikiDiverse.tsv
-│       └── Triples-WikiMEL.tsv
-```
 
 ### 1. Install Dependencies
 Install the required Python packages:
