@@ -1,5 +1,5 @@
 # KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking
-Official Repository for our paper "KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking" (SIGIR'25 Short)
+Official Repository for our paper "KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking" (SIGIR 2025 Short)
 
 
 <img src="image/figure.jpg" alt="Alt Text"/>
