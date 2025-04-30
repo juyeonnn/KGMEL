@@ -1,7 +1,7 @@
 # KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking
 
 [![arXiv](https://img.shields.io/badge/arXiv-2504.15135-b31b1b.svg)](https://arxiv.org/abs/2504.15135)
-[![Paper page](https://huggingface.co/datasets/huggingface/badges/resolve/main/paper-page-sm.svg)]([https://huggingface.co/apers](https://huggingface.co/papers/2504.15135))
+[![Paper page](https://huggingface.co/datasets/huggingface/badges/resolve/main/paper-page-sm.svg)](https://huggingface.co/papers/2504.15135)
 
 Official Repository for our paper "KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking" (SIGIR 2025 Short)
 
