@@ -11,27 +11,22 @@ Official Repository for our paper "KGMEL: Knowledge Graph-Enhanced Multimodal En
 
 ### 0. Data Preparation
 
-Our dataset is based on the [MIMIC repository](https://github.com/pengfei-luo/MIMIC). 
+Our dataset is based on the [MIMIC repository](https://github.com/pengfei-luo/MIMIC).  
+You need to download the following files from Our [GoogleDrive](https://drive.google.com/drive/folders/1cNrrFvFsNSej2QX8X6B1f1KyPDxqVINj?usp=sharing):
+- `triple.tar.gz` - Knowledge graph triples 
+- `mention_image.tar.gz` - Mention images 
+- `kb_image.tar.gz` - Knowledge base entity images
 
-You need to download the following files from our [Dropbox](https://www.dropbox.com/scl/fo/x61o4peh9ji1pww0zobao/AHiBAJq6taVF2-j7bQCKf7E?rlkey=x4pe5akrqaz6benuj376t7rqm&st=pky8etmp&dl=0):
-- `triple.tar` - Knowledge graph triples 
-- `mention_image.tar` - Mention images 
-- `kb_image.tar` - Knowledge base entity images
-
-Place the files in the following locations:
-- `mention_image.tar` → Place in the `data/dataset/` directory
-- `kb_image.tar` and `triple.tar` → Place in the `data/KB/` directory
-
-Then extract the files:
+Then, extract the files:
 ```bash
 # Extract mention images for datasets
-tar -xf data/dataset/mention_image.tar -C data/dataset/
+tar -xf mention_image.tar.gz -C data/dataset/
 
 # Extract Knowledge Base images
-tar -xf data/KB/kb_image.tar -C data/KB/
+tar -xf kb_image.tar.gz -C data/KB/
 
 # Extract Knowledge Graph triples
-tar -xf data/KB/triple.tar -C data/KB/
+tar -xf triple.tar.gz -C data/KB/
 ```
 
 
@@ -50,12 +45,12 @@ export OPENAI_API_KEY="your_openai_api_key"
 export HUGGINGFACE_TOKEN="your_huggingface_token"
 # Set Hugging Face cache directory (optional)
 export HUGGINGFACE_HUB_CACHE="/path/to/huggingface/cache"
+# Set the WANDB_API_KEY environment variable
+export WANDB_API_KEY="your_wandb_api_key"
 # Login to Hugging Face (alternative method)
 # huggingface-cli login
-# Login to Weights & Biases (wandb)
-wandb login
-# Alternatively, you can set the WANDB_API_KEY environment variable
-# export WANDB_API_KEY="your_wandb_api_key"
+# Login to Weights & Biases (alternative method)
+# wandb login
 ```
 You can add these to your `.bashrc` or `.bash_profile` for persistence, or include them in your run script for convenience.
 
@@ -85,13 +80,11 @@ KGMEL/
 │       └── Triples-WikiMEL.tsv
 ├── embedding/           # Directory for pre-computed embeddings
 ├── module/
-│   ├── __init__.py
 │   ├── generate.py      # Triple Generation module
 │   ├── retrieve.py      # Candidate Entity Retrieval module
 │   └── rerank.py        # Entity Reranking module
 ├── output/              # Output directory for results
 ├── utils/
-│   ├── __init__.py
 │   ├── dataloader.py
 │   ├── embedding_processor.py
 │   ├── encoder.py
@@ -102,4 +95,14 @@ KGMEL/
 ├── main.py              # Main code 
 ├── requirements.txt     # Dependencies
 └── run.sh               # Execution script
+```
+
+## Citation
+```
+@inproceedings{kim2025kgmel,
+  title={KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking},
+  author={Kim, Juyeon and Lee, Geon and Kim, Taeuk and Shin, Kijung},
+  booktitle={Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  year={2025}
+}
 ```
